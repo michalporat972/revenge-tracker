@@ -1,1 +1,2092 @@
-[]
+[
+  {
+    "event": {
+      "id": "crawled_2e237a9d062f",
+      "type": "assassination",
+      "description": "אחרי חיסול לאריג'אני: איראן מבטיחה נקמה כואבת - מקור ראשון",
+      "details": "מקור: מקור ראשון",
+      "date": "2026-03-18T05:51:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkMTE5TWhQZVo3VjJGYl9kMDVZYVNmekV1ZExSTVJnV2ZhcVlGZExHSnplU3FuX1l1QXZHaWE0bTZIS3FjZnJNRlBWdkVNWWtwZ3g0OUxGOXJqUzN6RHA5NHNyMlhUSlRa?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_2e237a9d062f",
+      "eventId": "crawled_2e237a9d062f",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — אחרי חיסול לאריג'אני: איראן מבטיחה נקמה כואבת - מקור ראשון",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkMTE5TWhQZVo3VjJGYl9kMDVZYVNmekV1ZExSTVJnV2ZhcVlGZExHSnplU3FuX1l1QXZHaWE0bTZIS3FjZnJNRlBWdkVNWWtwZ3g0OUxGOXJqUzN6RHA5NHNyMlhUSlRa?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_44da8a27ce9d",
+      "type": "assassination",
+      "description": "נקמה? האקרים איראנים במתקפת סייבר ענקית - אמס",
+      "details": "מקור: אמס",
+      "date": "2026-03-16T07:27:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YbUc4NWVoa1NpWUFnZkUycnhmRXhQWHNQYmtJX01VNVJkM3hZLWhjWl9hbnJ4VTNVaUlLeExxUVcwZEFMSEJFdDlxR2tKdw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_44da8a27ce9d",
+      "eventId": "crawled_44da8a27ce9d",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — נקמה? האקרים איראנים במתקפת סייבר ענקית - אמס",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YbUc4NWVoa1NpWUFnZkUycnhmRXhQWHNQYmtJX01VNVJkM3hZLWhjWl9hbnJ4VTNVaUlLeExxUVcwZEFMSEJFdDlxR2tKdw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_2e540834bf1f",
+      "type": "assassination",
+      "description": "\"זו הולכת להיות נקמה אכזרית\": החוליה שפועלת בשטח אחרי רצח הנער - mako",
+      "details": "מקור: mako",
+      "date": "2026-03-07T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02RTdseG9aV0xZZzFLT2lKX3VlV3ZjM2JuTFBBb0VYejBWTkpfbnp0Q01ucmFHWWI3aTNVZ2VNbzN3blhxVE1lRkNuajhXSjB0a1NtUGd5OWJYODM2QUxDRk9PMFNsM1FUTnRUaXNzQmdza1JY?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_2e540834bf1f",
+      "eventId": "crawled_2e540834bf1f",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — \"זו הולכת להיות נקמה אכזרית\": החוליה שפועלת בשטח אחרי רצח הנער - mako",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02RTdseG9aV0xZZzFLT2lKX3VlV3ZjM2JuTFBBb0VYejBWTkpfbnp0Q01ucmFHWWI3aTNVZ2VNbzN3blhxVE1lRkNuajhXSjB0a1NtUGd5OWJYODM2QUxDRk9PMFNsM1FUTnRUaXNzQmdza1JY?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_2f33c9f877c0",
+      "type": "assassination",
+      "description": "נקמה מתוקה: בארסה עם 2:5 מרשים על סביליה - ONE",
+      "details": "מקור: ONE",
+      "date": "2026-03-16T06:34:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVWQ0dmdUTHlLcnhHMk54LVJVbDlaSzdkNlJ4RElhMkxEb0k3ZFNDY25waUNNRFd3Vmc0STNJUTBwZDEtREpYUW15X0NHNE5kZDNPOWZHR255LVNWRE9yV2NuT0lsTUtXZ0FYWWIzWkE2blNJQjZaOTZyUHMxamxOZGp4cG5YRkpNdHZxdGw2aDZQb0toUkJPR0NDUXo5Tnc3V3MzVW9hUE5NWDZUb25FZFBmR2pxRzdOeUpqZW44QmFqQ3VuSWFBMkp0YVByWDR6NEtsbzEwNmlSdHBfTmdNZThpZzlUN0JCN016WEk0N1JlaFgxQXV0V2RpbS1jOHZ6Mk5EYjNwZGpnZ1doRlMtRlE4eWRmaGJDWmFnbHNhenYxZ0FEQVJtbUY5X2REM1BrajVBVlZQY0dFR0RYeU8xOGJoN1Q?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_2f33c9f877c0",
+      "eventId": "crawled_2f33c9f877c0",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — נקמה מתוקה: בארסה עם 2:5 מרשים על סביליה - ONE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVWQ0dmdUTHlLcnhHMk54LVJVbDlaSzdkNlJ4RElhMkxEb0k3ZFNDY25waUNNRFd3Vmc0STNJUTBwZDEtREpYUW15X0NHNE5kZDNPOWZHR255LVNWRE9yV2NuT0lsTUtXZ0FYWWIzWkE2blNJQjZaOTZyUHMxamxOZGp4cG5YRkpNdHZxdGw2aDZQb0toUkJPR0NDUXo5Tnc3V3MzVW9hUE5NWDZUb25FZFBmR2pxRzdOeUpqZW44QmFqQ3VuSWFBMkp0YVByWDR6NEtsbzEwNmlSdHBfTmdNZThpZzlUN0JCN016WEk0N1JlaFgxQXV0V2RpbS1jOHZ6Mk5EYjNwZGpnZ1doRlMtRlE4eWRmaGJDWmFnbHNhenYxZ0FEQVJtbUY5X2REM1BrajVBVlZQY0dFR0RYeU8xOGJoN1Q?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_b18902ac0f1e",
+      "type": "assassination",
+      "description": "כך הפכה הסחיטה המינית בטלגרם למגיפה שקטה בישראל: \"כולם נופלים בזה\" - מעריב",
+      "details": "מקור: מעריב",
+      "date": "2026-03-14T04:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcDdhSDR2dFdwNkhPelhqNzJ4RmlKTzQ2MUdIVk9JM2FaYkZrZjRDU2pjRUU4Z1NhdzEwRXlxdHpBNWJCS2tlZ1VSTXV2QWpjcmxXRklLRHAzcVNLUUVwYURLWQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_b18902ac0f1e",
+      "eventId": "crawled_b18902ac0f1e",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — כך הפכה הסחיטה המינית בטלגרם למגיפה שקטה בישראל: \"כולם נופלים בזה\" - מעריב",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcDdhSDR2dFdwNkhPelhqNzJ4RmlKTzQ2MUdIVk9JM2FaYkZrZjRDU2pjRUU4Z1NhdzEwRXlxdHpBNWJCS2tlZ1VSTXV2QWpjcmxXRklLRHAzcVNLUUVwYURLWQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_8d193e1ff194",
+      "type": "assassination",
+      "description": "כוננות כטב\"מים בקליפורניה: ה-FBI באזהרה מפני \"נקמה איראנית\" - JDN",
+      "details": "מקור: JDN",
+      "date": "2026-03-11T23:10:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jV0Z2WFl1VmpSRVhxUkVka3A0ak9Vc0FlRHJxZ1FHMHN3bDZGaHBkVVV1Tnp0aGdIcTNxTWFqRE00WkVXX1pXUmp5Yw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_8d193e1ff194",
+      "eventId": "crawled_8d193e1ff194",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — כוננות כטב\"מים בקליפורניה: ה-FBI באזהרה מפני \"נקמה איראנית\" - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jV0Z2WFl1VmpSRVhxUkVka3A0ak9Vc0FlRHJxZ1FHMHN3bDZGaHBkVVV1Tnp0aGdIcTNxTWFqRE00WkVXX1pXUmp5Yw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_e188b8f84bcc",
+      "type": "assassination",
+      "description": "מוג'תבא חמינאי במסר ראשון: סגירת מצר הורמוז, נקמה ו\"דרישה לפיצויים\" מארה\"ב וישראל - היום",
+      "details": "מקור: היום",
+      "date": "2026-03-12T12:20:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JV1NUODNVOG92aTRnWDhZMlJpckJMQkFGa18zckFISTF6eUFOc2dRZUpDVTdTVEVvWTh1dWZuNGZ5bnludHhWRnp5dHotYVBESTlnMnZnRS1QcUw2MWx5YXd6TGlVRTZNLThwbk81ckNLaUZwd3lPbm1ETGJIeGPSAYcBQVVfeXFMTWR6Q094cEtYZFVpd1BzSGhWd3g3SV9EZHV5elhMV2g3Ny1GbGx0ZXh1YUZBWTVpQlFTVWVSTjNsYWViaWNObk1VcURIOExkTlBRX0RLejQ2MHk1d3NpNkRVbG4zNGs0NU5iMElsaEV0cFR6ZlNqVW93V0VoSHRHTmNreXVOREpr?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_e188b8f84bcc",
+      "eventId": "crawled_e188b8f84bcc",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — מוג'תבא חמינאי במסר ראשון: סגירת מצר הורמוז, נקמה ו\"דרישה לפיצויים\" מארה\"ב וישראל - היום",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JV1NUODNVOG92aTRnWDhZMlJpckJMQkFGa18zckFISTF6eUFOc2dRZUpDVTdTVEVvWTh1dWZuNGZ5bnludHhWRnp5dHotYVBESTlnMnZnRS1QcUw2MWx5YXd6TGlVRTZNLThwbk81ckNLaUZwd3lPbm1ETGJIeGPSAYcBQVVfeXFMTWR6Q094cEtYZFVpd1BzSGhWd3g3SV9EZHV5elhMV2g3Ny1GbGx0ZXh1YUZBWTVpQlFTVWVSTjNsYWViaWNObk1VcURIOExkTlBRX0RLejQ2MHk1d3NpNkRVbG4zNGs0NU5iMElsaEV0cFR6ZlNqVW93V0VoSHRHTmNreXVOREpr?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_20854b6af72f",
+      "type": "assassination",
+      "description": "נקמה הפכה למוטיבציה מובילה של השלטון. האם זוכרים שם את הנאמר במקורות? - הארץ",
+      "details": "מקור: הארץ",
+      "date": "2025-12-27T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdi1qVWtxSVdZbXpjOVZ2eUZoanlwUjFFeUplRXVxbUI1dVVhaU12ZGNZcGFzck5rX2R0SHZYRk9pQ1hGOTBTRHUxMi1tY3dKWjR6MXdqZmpTT3IwMjVmejEyUFk5UXdqaHBVdjhlR1JPeEFQVGlocWtrY1A4WVU4Y2UySHBxRC1OZHlZUXdpS3FuenF0bUNraVgyX2ltUHk1ci1iZEtOUEtLSEFtbzRJ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_20854b6af72f",
+      "eventId": "crawled_20854b6af72f",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — נקמה הפכה למוטיבציה מובילה של השלטון. האם זוכרים שם את הנאמר במקורות? - הארץ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdi1qVWtxSVdZbXpjOVZ2eUZoanlwUjFFeUplRXVxbUI1dVVhaU12ZGNZcGFzck5rX2R0SHZYRk9pQ1hGOTBTRHUxMi1tY3dKWjR6MXdqZmpTT3IwMjVmejEyUFk5UXdqaHBVdjhlR1JPeEFQVGlocWtrY1A4WVU4Y2UySHBxRC1OZHlZUXdpS3FuenF0bUNraVgyX2ltUHk1ci1iZEtOUEtLSEFtbzRJ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_bd3209a6bb96",
+      "type": "assassination",
+      "description": "פצוע, נרדף וצמא נקמה: מי אתה מוג'תבא חמינאי? | פרופיל - כיכר השבת",
+      "details": "מקור: כיכר השבת",
+      "date": "2026-03-09T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUSEF1dmFlQzlFRlVMUElMbERYSGh0SEhQYWQ0MUMxZEZmNjRMaThKcXhZd1Y2QU93c1oxRmh1S1hUaGxvSWdfTGtvNVhPQVpyd1E?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_bd3209a6bb96",
+      "eventId": "crawled_bd3209a6bb96",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — פצוע, נרדף וצמא נקמה: מי אתה מוג'תבא חמינאי? | פרופיל - כיכר השבת",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUSEF1dmFlQzlFRlVMUElMbERYSGh0SEhQYWQ0MUMxZEZmNjRMaThKcXhZd1Y2QU93c1oxRmh1S1hUaGxvSWdfTGtvNVhPQVpyd1E?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_026ec65bb7bc",
+      "type": "assassination",
+      "description": "סערה באוניברסיטה הפתוחה: סטודנטים דורשים לבטל כנס על \"נקמה בעזה\" - ערוץ 7",
+      "details": "מקור: ערוץ 7",
+      "date": "2025-12-03T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wY25KRTBPakhMRXVYVkoxNjNzMV9YejlLRGZWQTBHY3BsV0sxTmNmSUhXdW5TVk1WbTZiZWpMbU03US0ycF9UWA?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_026ec65bb7bc",
+      "eventId": "crawled_026ec65bb7bc",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — סערה באוניברסיטה הפתוחה: סטודנטים דורשים לבטל כנס על \"נקמה בעזה\" - ערוץ 7",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wY25KRTBPakhMRXVYVkoxNjNzMV9YejlLRGZWQTBHY3BsV0sxTmNmSUhXdW5TVk1WbTZiZWpMbU03US0ycF9UWA?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_b789b21fd1ae",
+      "type": "assassination",
+      "description": "\"תג מחיר\", \"נקמה\": כלי רכב הושחתו והוצתו בכפר סמוך לירושלים - כאן 11",
+      "details": "מקור: כאן 11",
+      "date": "2026-01-08T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsMk1ET1JCVzRfb0xHQ3EwNVh2ZkVIYmNXOWVobFFQZ0FSRkV4SFhTODY0SE5wUFY2eW9jVUdxaWtQeWVPZGxMTnJGQTJxTms1NE9EbURwMHVMSmVJX2d4ZDJ5dXBaUQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_b789b21fd1ae",
+      "eventId": "crawled_b789b21fd1ae",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — \"תג מחיר\", \"נקמה\": כלי רכב הושחתו והוצתו בכפר סמוך לירושלים - כאן 11",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsMk1ET1JCVzRfb0xHQ3EwNVh2ZkVIYmNXOWVobFFQZ0FSRkV4SFhTODY0SE5wUFY2eW9jVUdxaWtQeWVPZGxMTnJGQTJxTms1NE9EbURwMHVMSmVJX2d4ZDJ5dXBaUQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_8380c8ea78f8",
+      "type": "assassination",
+      "description": "חבילה של נקמה: התחזתה לשליח וניסתה לרצוח את האקס בביתו באשדוד - mako",
+      "details": "מקור: mako",
+      "date": "2026-03-05T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VQ1FyYmg2emRRdmpTVmZiUkNSOGk0MjRFRHhIb3BHWHlhUHBRY1lOeHpyYmdxb0NYNFByYzlvcFpURy1jeUxnZkZFbG5hTUhrS2xseFd0ZzJWZnh5b1MxWlRDZUs5LWFHREN1b2Z1TkdCSExr?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_8380c8ea78f8",
+      "eventId": "crawled_8380c8ea78f8",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — חבילה של נקמה: התחזתה לשליח וניסתה לרצוח את האקס בביתו באשדוד - mako",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VQ1FyYmg2emRRdmpTVmZiUkNSOGk0MjRFRHhIb3BHWHlhUHBRY1lOeHpyYmdxb0NYNFByYzlvcFpURy1jeUxnZkZFbG5hTUhrS2xseFd0ZzJWZnh5b1MxWlRDZUs5LWFHREN1b2Z1TkdCSExr?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_ce5878b64229",
+      "type": "assassination",
+      "description": "נקמה מושלמת: אחרי שגילתה על הסרטון המביך, הכוכבת חשפה כמעט הכל בחופשה - ספורט 1",
+      "details": "מקור: ספורט 1",
+      "date": "2026-02-02T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHemNSNXFoUW1VWlNsNy1xZWsxdnVrdG5hczU1bmI2aUFTZXNqRHlLLUx1WE1YLTFGS2NZNGpWaXdsblVvdmltUWlkUHVkQS1NT2ZDN3hJQk83QkJ1MWVrdg?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_ce5878b64229",
+      "eventId": "crawled_ce5878b64229",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — נקמה מושלמת: אחרי שגילתה על הסרטון המביך, הכוכבת חשפה כמעט הכל בחופשה - ספורט 1",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHemNSNXFoUW1VWlNsNy1xZWsxdnVrdG5hczU1bmI2aUFTZXNqRHlLLUx1WE1YLTFGS2NZNGpWaXdsblVvdmltUWlkUHVkQS1NT2ZDN3hJQk83QkJ1MWVrdg?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_a5343e99b030",
+      "type": "assassination",
+      "description": "טראמפ יותר מרומז: חיסול חמינאי – נקמה על ההתנקשות - אמס",
+      "details": "מקור: אמס",
+      "date": "2026-03-02T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UM2M4RndpUG4tUjlKaGJ0aWV2aXhJbkRLNTF5VHQyS0RfRjhLcUN5ZHloaTFueHZtNUdhZmxQYnZnaWY3UGxvR1hTVFUwdw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_a5343e99b030",
+      "eventId": "crawled_a5343e99b030",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — טראמפ יותר מרומז: חיסול חמינאי – נקמה על ההתנקשות - אמס",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UM2M4RndpUG4tUjlKaGJ0aWV2aXhJbkRLNTF5VHQyS0RfRjhLcUN5ZHloaTFueHZtNUdhZmxQYnZnaWY3UGxvR1hTVFUwdw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_84a1dbf4fd3f",
+      "type": "assassination",
+      "description": "מותר לנקום בעזתים ולהתגאות בכך, אבל אסור לאקדמיה לדבר על זה? - הארץ",
+      "details": "מקור: הארץ",
+      "date": "2026-01-18T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb01jWlMtVGUwcTZObEhYdFJLRjQ0VGRrWHdYTkp2alM0dDM4VjVNSjNhdGVsdzlPQzRKejc0cEpPRTZDVGt4czFwYmZncG9maTlHdHJuNWl1OEtWM0lua1l0Ni1EcE5aejh2cWIyWnNONFhLSzdBclM1RC1CMkpkQkpuOWVZbkI5Q1JMU3VJMllFS0ppYjFHSnhmVWxha281Z1AtSkp3YlhQV2QtWE9B?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_84a1dbf4fd3f",
+      "eventId": "crawled_84a1dbf4fd3f",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — מותר לנקום בעזתים ולהתגאות בכך, אבל אסור לאקדמיה לדבר על זה? - הארץ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb01jWlMtVGUwcTZObEhYdFJLRjQ0VGRrWHdYTkp2alM0dDM4VjVNSjNhdGVsdzlPQzRKejc0cEpPRTZDVGt4czFwYmZncG9maTlHdHJuNWl1OEtWM0lua1l0Ni1EcE5aejh2cWIyWnNONFhLSzdBclM1RC1CMkpkQkpuOWVZbkI5Q1JMU3VJMllFS0ppYjFHSnhmVWxha281Z1AtSkp3YlhQV2QtWE9B?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_0545bb66ada9",
+      "type": "assassination",
+      "description": "מוג'בתא חמינאי: \"מיצרי הורמוז יישארו סגורים, ננקום את דם ההרוגים\" - i24NEWS",
+      "details": "מקור: i24NEWS",
+      "date": "2026-03-12T14:02:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NcndWNVNSU0dBRDY4cjRZM1ZhejRITnJiaTJrR1lBNGVfUG9JR2JGWkpMLUEwM2lQYXAtWkZJbVlfMjFvQVN0S2M5OF9lWWpiNU5WbmRWcTkxMnhPQ2lxOFJQNEtxRGNBZkI5alMxLXZhaWVUQUZTdmN3?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_0545bb66ada9",
+      "eventId": "crawled_0545bb66ada9",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — מוג'בתא חמינאי: \"מיצרי הורמוז יישארו סגורים, ננקום את דם ההרוגים\" - i24NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NcndWNVNSU0dBRDY4cjRZM1ZhejRITnJiaTJrR1lBNGVfUG9JR2JGWkpMLUEwM2lQYXAtWkZJbVlfMjFvQVN0S2M5OF9lWWpiNU5WbmRWcTkxMnhPQ2lxOFJQNEtxRGNBZkI5alMxLXZhaWVUQUZTdmN3?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_4a76ef77abaf",
+      "type": "assassination",
+      "description": "מוג'תבא בהצהרה רשמית ראשונה: \"ננקום את דם ההרוגים\" - אמס",
+      "details": "מקור: אמס",
+      "date": "2026-03-12T16:48:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnS25NX090OXB3VlNXeWRLSTJDdnFvWm8yajNIQ1d0aHhFNV9QZkZTV0kzSlJ1X1Z3V1ZwQ3FjaUtET3ZNWl9CMXAySENJdw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_4a76ef77abaf",
+      "eventId": "crawled_4a76ef77abaf",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — מוג'תבא בהצהרה רשמית ראשונה: \"ננקום את דם ההרוגים\" - אמס",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnS25NX090OXB3VlNXeWRLSTJDdnFvWm8yajNIQ1d0aHhFNV9QZkZTV0kzSlJ1X1Z3V1ZwQ3FjaUtET3ZNWl9CMXAySENJdw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_757b1021f24b",
+      "type": "assassination",
+      "description": "בכיר איראני: \"ננקום את דם המנהיג שלנו, טראמפ חייב לשלם\" - היום",
+      "details": "מקור: היום",
+      "date": "2026-03-07T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oOHZGb3g4OUs3Y3FRMjcxVFN3WnA4YV8xMzZSTWVXUTBzazEwZGxnbWJGTmVLWTJqZkdmcE1FNHZfYjVncFdhVkx5enVGU0Z6QjdMWDFUbHQtVXo4TXg3ejlrN1c5ZnfSAW9BVV95cUxQeHAwSjROSlZmaFktYTRnZ3drdEpKSlZpbFFoUnEwZzRibS1SWlZ6WTJaQ211c1RBQ2I3NHdiNUY4NlRybnpLbEpMVVc3Y002d0pxOFU5NkQ3WkF5S2xIR09NdFFmaHBmVDFQSTlySVk?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_757b1021f24b",
+      "eventId": "crawled_757b1021f24b",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — בכיר איראני: \"ננקום את דם המנהיג שלנו, טראמפ חייב לשלם\" - היום",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oOHZGb3g4OUs3Y3FRMjcxVFN3WnA4YV8xMzZSTWVXUTBzazEwZGxnbWJGTmVLWTJqZkdmcE1FNHZfYjVncFdhVkx5enVGU0Z6QjdMWDFUbHQtVXo4TXg3ejlrN1c5ZnfSAW9BVV95cUxQeHAwSjROSlZmaFktYTRnZ3drdEpKSlZpbFFoUnEwZzRibS1SWlZ6WTJaQ211c1RBQ2I3NHdiNUY4NlRybnpLbEpMVVc3Y002d0pxOFU5NkQ3WkF5S2xIR09NdFFmaHBmVDFQSTlySVk?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_c3d38197bb34",
+      "type": "assassination",
+      "description": "הצבא: ננקום על המשחתת דנה - تسنیم",
+      "details": "מקור: تسنیم",
+      "date": "2026-03-06T00:05:27+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5xSEU2elE4VTZTTXdxZ21rS1Vqd3NnV3BISTlzZTd0WHh1cVpaWjE5OVY1WTdDdm9HNjVfM3E5Z21CdTTSAY4CQVVfeXFMTXF3YlZ0ejF1bzB0eFJHZzVScndrenQ3UUNGN0tJTV8zc1FIZ3NTeU1WNWZxOGZYblQ4LW1wemp6SUdzMGZPWEdtLXFtLVd0VklINFU5RHk2YkRzMWszOGxOZC01aXphTm9pb294c3BYU0tlRE9PUWV3dFd1Mzl4NjViUUoyQXFlRFVEOThUazdaUXltcC1rNmJOaUJRLUZ2VW5FSEtHWXBHa1VVSW5paTIxcEhic0NzN1RRbi13TE5MVlhZTEstWDI2aVJXT0NVWnppT2g5OGF1U1RzOVo4M1RFODJhblVubUpRVzlZSTc2b0U4WllvWlp3UEVudlg1ZjNSLTNJeWxPQlVQalVR?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_c3d38197bb34",
+      "eventId": "crawled_c3d38197bb34",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — הצבא: ננקום על המשחתת דנה - تسنیم",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5xSEU2elE4VTZTTXdxZ21rS1Vqd3NnV3BISTlzZTd0WHh1cVpaWjE5OVY1WTdDdm9HNjVfM3E5Z21CdTTSAY4CQVVfeXFMTXF3YlZ0ejF1bzB0eFJHZzVScndrenQ3UUNGN0tJTV8zc1FIZ3NTeU1WNWZxOGZYblQ4LW1wemp6SUdzMGZPWEdtLXFtLVd0VklINFU5RHk2YkRzMWszOGxOZC01aXphTm9pb294c3BYU0tlRE9PUWV3dFd1Mzl4NjViUUoyQXFlRFVEOThUazdaUXltcC1rNmJOaUJRLUZ2VW5FSEtHWXBHa1VVSW5paTIxcEhic0NzN1RRbi13TE5MVlhZTEstWDI2aVJXT0NVWnppT2g5OGF1U1RzOVo4M1RFODJhblVubUpRVzlZSTc2b0U4WllvWlp3UEVudlg1ZjNSLTNJeWxPQlVQalVR?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_5324dff7f1ae",
+      "type": "assassination",
+      "description": "נשיא איראן: \"ננקום את דם חמינאי\"; לאריג'יאני: \"נשרוף לכם את הלב\" - JDN",
+      "details": "מקור: JDN",
+      "date": "2026-03-01T09:41:27+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zSGxpM3YyLS1JTWdObVJxNU9XSGk5UEZBYjlsR011UXlpYno0ZVVyaWw4VmowWU45clBFYWNhOHNqQnprRlUtRFRyQQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_5324dff7f1ae",
+      "eventId": "crawled_5324dff7f1ae",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — נשיא איראן: \"ננקום את דם חמינאי\"; לאריג'יאני: \"נשרוף לכם את הלב\" - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zSGxpM3YyLS1JTWdObVJxNU9XSGk5UEZBYjlsR011UXlpYno0ZVVyaWw4VmowWU45clBFYWNhOHNqQnprRlUtRFRyQQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_e0c2453124fe",
+      "type": "assassination",
+      "description": "האב השכול בכנסת: \"ננקום ונשלח את הצד השני לשורה\". צפו - סרוגים",
+      "details": "מקור: סרוגים",
+      "date": "2025-11-24T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVmFRR1FhSzA1Zk9tNU1hSFpqaDVTM3NKby1pVjF4cGUzc3pEOEFpMFpqV3M2RUpBcnpaY3Y4cDlNajUtQWxUNTZWTGR5Z0lMX0djcWV6dkI3SmJPS0JlbUtsakUxVDVrbmZKeHdrRy1jXzlMTjFoS2MwQ2cyRkRHVXlyNHF5eWhPclNWbWV4eEkzRklyd2hwOE5ob0NTX0p6bzM0VTF0NDVISDh6N2ZGVHo5R1FLRDJjalNjZkcxUzEzeG9McWJXUjZvWU9ucG1UWEEyLXVZSXdrRWh5bEFLRnliWWk2bXdIRE91ZWliNUY2d2pfcXpZTGZzc2drOTgxTmdJTE04akhfaXo4ZVliLUJSaHF6RUxyT2Q5Zy15VllXaWQwRnJ4S3RmNFhaQnphdjF1UGU5U2lPYXU4MHdJeG1yRHNvMnZyamc?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_e0c2453124fe",
+      "eventId": "crawled_e0c2453124fe",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — האב השכול בכנסת: \"ננקום ונשלח את הצד השני לשורה\". צפו - סרוגים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVmFRR1FhSzA1Zk9tNU1hSFpqaDVTM3NKby1pVjF4cGUzc3pEOEFpMFpqV3M2RUpBcnpaY3Y4cDlNajUtQWxUNTZWTGR5Z0lMX0djcWV6dkI3SmJPS0JlbUtsakUxVDVrbmZKeHdrRy1jXzlMTjFoS2MwQ2cyRkRHVXlyNHF5eWhPclNWbWV4eEkzRklyd2hwOE5ob0NTX0p6bzM0VTF0NDVISDh6N2ZGVHo5R1FLRDJjalNjZkcxUzEzeG9McWJXUjZvWU9ucG1UWEEyLXVZSXdrRWh5bEFLRnliWWk2bXdIRE91ZWliNUY2d2pfcXpZTGZzc2drOTgxTmdJTE04akhfaXo4ZVliLUJSaHF6RUxyT2Q5Zy15VllXaWQwRnJ4S3RmNFhaQnphdjF1UGU5U2lPYXU4MHdJeG1yRHNvMnZyamc?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_e90d607327b5",
+      "type": "assassination",
+      "description": "ישראל מתקרבת לעימות בלבנון; קאסם: \"ננקום את מות הרמטכ\"ל\" - כאן 11",
+      "details": "מקור: כאן 11",
+      "date": "2025-11-28T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BaklUdWNsX0lDdTB5bk43Qi1EOTB5SUN4d0JVeFpDUzItZWh1QUNVSGJpVEZiQl90aHJfWnVCUFQxSGtOZDZ5ZkxOWm0yME8zTlVoRHJCdURLYVlBVTdad3N5Vk41QQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_e90d607327b5",
+      "eventId": "crawled_e90d607327b5",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — ישראל מתקרבת לעימות בלבנון; קאסם: \"ננקום את מות הרמטכ\"ל\" - כאן 11",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BaklUdWNsX0lDdTB5bk43Qi1EOTB5SUN4d0JVeFpDUzItZWh1QUNVSGJpVEZiQl90aHJfWnVCUFQxSGtOZDZ5ZkxOWm0yME8zTlVoRHJCdURLYVlBVTdad3N5Vk41QQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_ebf5f33e3b1c",
+      "type": "assassination",
+      "description": "יותר מ-250 נרצחו; נתניהו: \"ננקום בחמאס על היום השחור הזה\" | חדשות 13 - רשת 13",
+      "details": "מקור: רשת 13",
+      "date": "2025-09-19T13:30:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CbndETDZnUXFIRDlNVVlva29xeUFxRlVvd21LYkFEcTMwczdwNFFQRjUycFFRdjFlRnpGQWowNl9DUVhlcHhJRTZyQ0tVNzA5ek9oTkFyWjZtMTV2SFN1SmdyRFVSWjB4cmt6MkJoRUdqLXgtb2xjUg?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_ebf5f33e3b1c",
+      "eventId": "crawled_ebf5f33e3b1c",
+      "source": "hamas",
+      "description": "[OSINT] איום נקמה — יותר מ-250 נרצחו; נתניהו: \"ננקום בחמאס על היום השחור הזה\" | חדשות 13 - רשת 13",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CbndETDZnUXFIRDlNVVlva29xeUFxRlVvd21LYkFEcTMwczdwNFFQRjUycFFRdjFlRnpGQWowNl9DUVhlcHhJRTZyQ0tVNzA5ek9oTkFyWjZtMTV2SFN1SmdyRFVSWjB4cmt6MkJoRUdqLXgtb2xjUg?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_e5ae68fa4886",
+      "type": "assassination",
+      "description": "טראמפ: \"ננקום את מות החיילים האמריקנים, בכירים מבקשים חסינות\" - היום",
+      "details": "מקור: היום",
+      "date": "2026-03-01T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIb3ZzNXZrOXQxdHRlNTgwRGp6Z3FiZ2dEUlZ1bU5YdTdRb2tQZ0MwZzRMazhTeHdCY3dvZFM4SkxKdGtaaDJsajFnUjdxaV9sVXRoWFdFamJ3ZnNhV0xKMkV2S3JKUF9vOVFnLTdlQ1lfSGVI0gF8QVVfeXFMUFp1VVFrN0JnaWdHRERUNFdYYk1nMGpjQmpudTdoNnFQczlFc2NxMGNEaTcxV2FBOEZnbGhLeDdOR0pBQVRscGVQMmNwQXF1dFNjRFFxbjB4Y09qbW1raUpFTWV0elhPVzNjdzFfWmMwSzZmVFBBV0ZRYzRPTQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_e5ae68fa4886",
+      "eventId": "crawled_e5ae68fa4886",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — טראמפ: \"ננקום את מות החיילים האמריקנים, בכירים מבקשים חסינות\" - היום",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIb3ZzNXZrOXQxdHRlNTgwRGp6Z3FiZ2dEUlZ1bU5YdTdRb2tQZ0MwZzRMazhTeHdCY3dvZFM4SkxKdGtaaDJsajFnUjdxaV9sVXRoWFdFamJ3ZnNhV0xKMkV2S3JKUF9vOVFnLTdlQ1lfSGVI0gF8QVVfeXFMUFp1VVFrN0JnaWdHRERUNFdYYk1nMGpjQmpudTdoNnFQczlFc2NxMGNEaTcxV2FBOEZnbGhLeDdOR0pBQVRscGVQMmNwQXF1dFNjRFFxbjB4Y09qbW1raUpFTWV0elhPVzNjdzFfWmMwSzZmVFBBV0ZRYzRPTQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_4571c97885d9",
+      "type": "assassination",
+      "description": "משפחת הנרצח הבדואי מהטבח במסיבה מציעה מיליון דולר: \"ננקום במחבלים ובמשפחות שלהם, נגיע אליהם\" - mako",
+      "details": "מקור: mako",
+      "date": "2023-11-06T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KMVMtYzE5eXlRSlBNNk1WdjM3a0dFSW9wamVCR0plY0E2bHJFNkRJcW1xNk5XamdMWko5OFhMY3F3bVRidTBsRGh6cFA4aU9FWGgzYlFiVF9OVGhHcEdKN1pveXJaYzZvRDNCS0lsLUZkaG1v?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_4571c97885d9",
+      "eventId": "crawled_4571c97885d9",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — משפחת הנרצח הבדואי מהטבח במסיבה מציעה מיליון דולר: \"ננקום במחבלים ובמשפחות שלהם, נגיע אליהם\" - mako",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KMVMtYzE5eXlRSlBNNk1WdjM3a0dFSW9wamVCR0plY0E2bHJFNkRJcW1xNk5XamdMWko5OFhMY3F3bVRidTBsRGh6cFA4aU9FWGgzYlFiVF9OVGhHcEdKN1pveXJaYzZvRDNCS0lsLUZkaG1v?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_8c01d5d90706",
+      "type": "assassination",
+      "description": "עידן עמדי מפוצץ בניין בעזה: \"לזכר הקורבנות, השם ואנחנו ננקום\" | תיעוד - ynet",
+      "details": "מקור: ynet",
+      "date": "2023-11-20T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByaHRRUlgxcWJXdXhZM0RCbWxVRnA5d0YzQWtUdW1BQWdqR2tjWE04TmpDeDNnblZLdnBQXzFHZ0ZsWU1BLVEzM1Y4dmwtTkpQQ183czhOS0c4NVhsdzhYXzVZaUM2RjQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_8c01d5d90706",
+      "eventId": "crawled_8c01d5d90706",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — עידן עמדי מפוצץ בניין בעזה: \"לזכר הקורבנות, השם ואנחנו ננקום\" | תיעוד - ynet",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByaHRRUlgxcWJXdXhZM0RCbWxVRnA5d0YzQWtUdW1BQWdqR2tjWE04TmpDeDNnblZLdnBQXzFHZ0ZsWU1BLVEzM1Y4dmwtTkpQQ183czhOS0c4NVhsdzhYXzVZaUM2RjQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_146ef9dd36d2",
+      "type": "assassination",
+      "description": "נתניהו בהצהרה מיוחדת: ננקום בחמאס על היום השחור הזה - ערוץ 7",
+      "details": "מקור: ערוץ 7",
+      "date": "2023-10-07T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wWVg2emxlbktlTHE3dm5DT0ZMbG1UMXlaNk1yTm5IbXJNdkpOeldtS2FjTGZkUG9NQXpTeWh4emVlelB3YjhsTg?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_146ef9dd36d2",
+      "eventId": "crawled_146ef9dd36d2",
+      "source": "hamas",
+      "description": "[OSINT] איום נקמה — נתניהו בהצהרה מיוחדת: ננקום בחמאס על היום השחור הזה - ערוץ 7",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wWVg2emxlbktlTHE3dm5DT0ZMbG1UMXlaNk1yTm5IbXJNdkpOeldtS2FjTGZkUG9NQXpTeWh4emVlelB3YjhsTg?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_f893e94ee15e",
+      "type": "assassination",
+      "description": "נתניהו על סאגת שירי ביבס: \"שמו בארון גופת אישה עזתית; השם יקום דמם וגם אנחנו ננקום\" - בחדרי חרדים",
+      "details": "מקור: בחדרי חרדים",
+      "date": "2025-02-21T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPVjltNUpNenFndXQ0RFl6NE5VTGNFSjJ6eDVIcGU0cEpYR1pSWlhTNUZSNTJkYm93TGJUR0pFTUJkTWV6dmk1V2VsUQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_f893e94ee15e",
+      "eventId": "crawled_f893e94ee15e",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — נתניהו על סאגת שירי ביבס: \"שמו בארון גופת אישה עזתית; השם יקום דמם וגם אנחנו ננקום\" - בחדרי חרדים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPVjltNUpNenFndXQ0RFl6NE5VTGNFSjJ6eDVIcGU0cEpYR1pSWlhTNUZSNTJkYm93TGJUR0pFTUJkTWV6dmk1V2VsUQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_030cab043633",
+      "type": "assassination",
+      "description": "\"ננקום את נקמת דמו\": במערכת הפוליטית המומים מרצח צבי קוגן - i24NEWS",
+      "details": "מקור: i24NEWS",
+      "date": "2024-11-23T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FRjZqLVNMd09MdjRaVmlmMS1vSU0tMTNlQUJ3bDdGQVBPVGs3eU1Rc3lWYVVwckRMckVJTFlWdDhFYmtfLXo1UVJKblg0bEJzNnRFLVJwcTNfQ3plUEdEbGY5ZktfUTFWQWc?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_030cab043633",
+      "eventId": "crawled_030cab043633",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — \"ננקום את נקמת דמו\": במערכת הפוליטית המומים מרצח צבי קוגן - i24NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FRjZqLVNMd09MdjRaVmlmMS1vSU0tMTNlQUJ3bDdGQVBPVGs3eU1Rc3lWYVVwckRMckVJTFlWdDhFYmtfLXo1UVJKblg0bEJzNnRFLVJwcTNfQ3plUEdEbGY5ZktfUTFWQWc?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_7bd63a09cee8",
+      "type": "assassination",
+      "description": "באיראן ממשיכים לאיים: \"ננקום את דמו של הנייה, הציונים יצטערו על כך\" - בחדרי חרדים",
+      "details": "מקור: בחדרי חרדים",
+      "date": "2024-08-01T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HQ0NFS3YzWUloRXlhbUh1aWU3V2tjRmZGbHhVOGhjcjVBdkxJbVBKU0FWOGhUQjdaX1NWdmxBc1loRGZ6M1Vvd0d2dw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_7bd63a09cee8",
+      "eventId": "crawled_7bd63a09cee8",
+      "source": "hamas",
+      "description": "[OSINT] איום נקמה — באיראן ממשיכים לאיים: \"ננקום את דמו של הנייה, הציונים יצטערו על כך\" - בחדרי חרדים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HQ0NFS3YzWUloRXlhbUh1aWU3V2tjRmZGbHhVOGhjcjVBdkxJbVBKU0FWOGhUQjdaX1NWdmxBc1loRGZ6M1Vvd0d2dw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_1cb7cac925fa",
+      "type": "assassination",
+      "description": "הפרו פלסטינים החליטו לנקום בבית הקפה שנתניהו הגיע אליו: \"קיבלנו תגובות קשות\" - מעריב",
+      "details": "מקור: מעריב",
+      "date": "2026-03-16T09:21:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OcmdQc2c5TV9mYnFFQ2NqcjJrMlZzSTBRXzRYQVVyQkhpLTJjeER3TU90QWxWc2JCRUV5TWxiY2hVVmZoSUF3SVFxLU1CVFRmUGhaNjdtaVAzdVVDRGQtNUdLTGs?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_1cb7cac925fa",
+      "eventId": "crawled_1cb7cac925fa",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — הפרו פלסטינים החליטו לנקום בבית הקפה שנתניהו הגיע אליו: \"קיבלנו תגובות קשות\" - מעריב",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OcmdQc2c5TV9mYnFFQ2NqcjJrMlZzSTBRXzRYQVVyQkhpLTJjeER3TU90QWxWc2JCRUV5TWxiY2hVVmZoSUF3SVFxLU1CVFRmUGhaNjdtaVAzdVVDRGQtNUdLTGs?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_89f020df923c",
+      "type": "assassination",
+      "description": "פיגוע בבית-כנסת בדטרויט נגמר בנס; דיווח: המפגע - לבנוני שרצה לנקום את מות אחיו בתקיפת צה\"ל - MSN",
+      "details": "מקור: MSN",
+      "date": "2026-03-16T16:20:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPZmR3VWE0ZXN6Ymg2ckNocEdOQUJFN216dC1IeEljYXBtdExaX21WS09YTFZSNFZNZ2J6S1dGeVREQXgtT0xWaXNNeHRMdmtTeWFoeUdPT2hHRnFBdXZVWkRmRVdvTGF1U0NFeEZOaDBZMkZqYmZHWEFseWNBNGxsXzMxZnEzMzlxek45dGJKbm8tS0RuN1Q5N2huUFVmUHlfUi1qX1o4ODJCQVJ3cVI0RFNxbGs2enhnM1VCU1UyakhlWmVfaEpRZ3RjVExHZVppZFJMVjUxVDVndjRiREJQTE5QU2NpYTY3MEFaR0FtWG5faXdjcW11SFlnMnNjNkZyeFJtZkpuY0s2Nll5RUE4VjFyeU4zUVg0TjVPcUhkRllZeFUzYmlPbUFNVGc1S3pJSW1JRkJKemR4NEo3T19HQTIzbWlBVUQ3ZElKLTlfX1VaVEdqZ1oyRmp0YWNBekZLa3ppWHI1MFE2OThuZDN1TkltSzU4YlZFSGVuQ3F4YUc1blZ5Xzg3ekhtZDNYX1V6X205UWZWZkIzQnJpUmRON0FIa0tSR2Fld1FZQUJMVTJVa1lMLXYwMVFoWm93YVVvXzRhS1A0UkF5R2NTTTlwOEZaTC1GYmZpQTVkMUhKSzVQdUZJMzJQVGd3cFY1aF93RTVTVlBjMHBLSWtxT0VJVlVBOWdWSnU5NWF3?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_89f020df923c",
+      "eventId": "crawled_89f020df923c",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — פיגוע בבית-כנסת בדטרויט נגמר בנס; דיווח: המפגע - לבנוני שרצה לנקום את מות אחיו בתקיפת צה\"ל - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPZmR3VWE0ZXN6Ymg2ckNocEdOQUJFN216dC1IeEljYXBtdExaX21WS09YTFZSNFZNZ2J6S1dGeVREQXgtT0xWaXNNeHRMdmtTeWFoeUdPT2hHRnFBdXZVWkRmRVdvTGF1U0NFeEZOaDBZMkZqYmZHWEFseWNBNGxsXzMxZnEzMzlxek45dGJKbm8tS0RuN1Q5N2huUFVmUHlfUi1qX1o4ODJCQVJ3cVI0RFNxbGs2enhnM1VCU1UyakhlWmVfaEpRZ3RjVExHZVppZFJMVjUxVDVndjRiREJQTE5QU2NpYTY3MEFaR0FtWG5faXdjcW11SFlnMnNjNkZyeFJtZkpuY0s2Nll5RUE4VjFyeU4zUVg0TjVPcUhkRllZeFUzYmlPbUFNVGc1S3pJSW1JRkJKemR4NEo3T19HQTIzbWlBVUQ3ZElKLTlfX1VaVEdqZ1oyRmp0YWNBekZLa3ppWHI1MFE2OThuZDN1TkltSzU4YlZFSGVuQ3F4YUc1blZ5Xzg3ekhtZDNYX1V6X205UWZWZkIzQnJpUmRON0FIa0tSR2Fld1FZQUJMVTJVa1lMLXYwMVFoWm93YVVvXzRhS1A0UkF5R2NTTTlwOEZaTC1GYmZpQTVkMUhKSzVQdUZJMzJQVGd3cFY1aF93RTVTVlBjMHBLSWtxT0VJVlVBOWdWSnU5NWF3?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_4fcdcf291812",
+      "type": "assassination",
+      "description": "ניפחה במיליונים את נכסי החברה - כדי לנקום באחיה - mako",
+      "details": "מקור: mako",
+      "date": "2026-03-11T05:18:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qTUhTYV9HZktWYUlPVFEwUk1MeUtZU295bVp5cjJwVkYyWkdUYi1Rb0VFUkUzQUpnVkVGdVhYajhSdHFvdDJBNFZzODdocEpYZ2JwVzBTZ21HN0V5T1VDejhvdkNLRFctblk3LUIweTJfTHVldWhPNWVvNTVfQQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_4fcdcf291812",
+      "eventId": "crawled_4fcdcf291812",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — ניפחה במיליונים את נכסי החברה - כדי לנקום באחיה - mako",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qTUhTYV9HZktWYUlPVFEwUk1MeUtZU295bVp5cjJwVkYyWkdUYi1Rb0VFUkUzQUpnVkVGdVhYajhSdHFvdDJBNFZzODdocEpYZ2JwVzBTZ21HN0V5T1VDejhvdkNLRFctblk3LUIweTJfTHVldWhPNWVvNTVfQQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_d1f2c1109fa4",
+      "type": "assassination",
+      "description": "\"לא נפסיק לנקום\" > המנהיג החדש במצב קשה: בתקשורת הפיצו \"מסר בשמו\" | המחדש | כל החדשות והעדכונים - המחדש",
+      "details": "מקור: המחדש",
+      "date": "2026-03-12T17:32:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBkZTJvYUZqN1hqNVRRRy13RVAtLWtFOTlOQlJIcmRXR1NpcDk1VkpCZGlCMllHcF96M0ZqN1N6TFVkcmc?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_d1f2c1109fa4",
+      "eventId": "crawled_d1f2c1109fa4",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — \"לא נפסיק לנקום\" > המנהיג החדש במצב קשה: בתקשורת הפיצו \"מסר בשמו\" | המחדש | כל החדשות והעדכונים - המחדש",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBkZTJvYUZqN1hqNVRRRy13RVAtLWtFOTlOQlJIcmRXR1NpcDk1VkpCZGlCMllHcF96M0ZqN1N6TFVkcmc?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_8343ba4af3d5",
+      "type": "assassination",
+      "description": "איראן החלה לנקום בסייבר - - אנשים ומחשבים",
+      "details": "מקור: אנשים ומחשבים",
+      "date": "2026-03-03T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHhkV2hDaUNLOFN1ME1JMDF2N1ZwcnBKNDFmVThtUTA3SEFPYTZrMGFFT2JCRk13d1pjZ3JUZnpmcTV0a2tocF8tX1dDTWVzamdlY0ZyTm4yeHNPSzhNcWpSWFM3SVMzTzNFT2F1RVF6aEpMZlpwUHhNcXhZb0lMRkFfcXQyMmZILUxoOVJLYU9hYjVUTDItdVYtY19YWEVudnlZTWprUUpNenA4bmE2QV9sdkszdFZJOEdoR2kyY1o3d1ls?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_8343ba4af3d5",
+      "eventId": "crawled_8343ba4af3d5",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — איראן החלה לנקום בסייבר - - אנשים ומחשבים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHhkV2hDaUNLOFN1ME1JMDF2N1ZwcnBKNDFmVThtUTA3SEFPYTZrMGFFT2JCRk13d1pjZ3JUZnpmcTV0a2tocF8tX1dDTWVzamdlY0ZyTm4yeHNPSzhNcWpSWFM3SVMzTzNFT2F1RVF6aEpMZlpwUHhNcXhZb0lMRkFfcXQyMmZILUxoOVJLYU9hYjVUTDItdVYtY19YWEVudnlZTWprUUpNenA4bmE2QV9sdkszdFZJOEdoR2kyY1o3d1ls?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_745cec676e80",
+      "type": "assassination",
+      "description": "משבח את חיזבאללה והחות'ים, מספיד את אביו: מוג'תבא חמינאי במסר ראשון - כאן 11",
+      "details": "מקור: כאן 11",
+      "date": "2026-03-12T13:21:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWaTFvY3JhRUdVSzJnRFJqMGJ0ay1XaVZOUF9NX25XTTJrRThxeXlNZW9uQl9sQkxkWFpCbjZYLTRxNE5jVnptbm16M1dUcWYtWE9aZm5BelR2MFY2X3NGcXRVMkF5U1E?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_745cec676e80",
+      "eventId": "crawled_745cec676e80",
+      "source": "hezbollah",
+      "description": "[OSINT] איום נקמה — משבח את חיזבאללה והחות'ים, מספיד את אביו: מוג'תבא חמינאי במסר ראשון - כאן 11",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWaTFvY3JhRUdVSzJnRFJqMGJ0ay1XaVZOUF9NX25XTTJrRThxeXlNZW9uQl9sQkxkWFpCbjZYLTRxNE5jVnptbm16M1dUcWYtWE9aZm5BelR2MFY2X3NGcXRVMkF5U1E?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_eb1741c6f980",
+      "type": "assassination",
+      "description": "מבטיחים לנקום: ששת הנופלים האמריקאים התקבלו ע\"י הנשיא וסגנו - JDN",
+      "details": "מקור: JDN",
+      "date": "2026-03-08T09:36:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBja21WZER2TllVS25wbUZEZzQ0cVQtYTBpc2ZqZ1VLSk5XYlBMYTBKZmtxeDBDMnFhNVJadXFDMHNqSTBwNUYxb3hXQQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_eb1741c6f980",
+      "eventId": "crawled_eb1741c6f980",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — מבטיחים לנקום: ששת הנופלים האמריקאים התקבלו ע\"י הנשיא וסגנו - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBja21WZER2TllVS25wbUZEZzQ0cVQtYTBpc2ZqZ1VLSk5XYlBMYTBKZmtxeDBDMnFhNVJadXFDMHNqSTBwNUYxb3hXQQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_a5d18daf794d",
+      "type": "assassination",
+      "description": "שייחים מוסלמים בפתווה: \"לנקום את חמינאי, לשפוך דם כופרים\" - סרוגים",
+      "details": "מקור: סרוגים",
+      "date": "2026-03-04T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBWGk2MVIyY01zU2RBS3AtSjc3d2M2c1o1b1J6dkpLemNvWmYzSVJGdThkRXZPek9GUFlwZEdvblBZZ0J0WFNqbHFuMS1WZw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_a5d18daf794d",
+      "eventId": "crawled_a5d18daf794d",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — שייחים מוסלמים בפתווה: \"לנקום את חמינאי, לשפוך דם כופרים\" - סרוגים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBWGk2MVIyY01zU2RBS3AtSjc3d2M2c1o1b1J6dkpLemNvWmYzSVJGdThkRXZPek9GUFlwZEdvblBZZ0J0WFNqbHFuMS1WZw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_4c557ff520f7",
+      "type": "assassination",
+      "description": "\"אם תשאלו יתום בן עשר מה החלום שלו, הוא יגיד 'לנקום את המוות של אבא שלי'\" - davar1.co.il",
+      "details": "מקור: davar1.co.il",
+      "date": "2026-02-27T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8yd1lpb0ZsVV9xX0xEYW82U0ZKYXV2bkNhNWxtdURKSTZyUUNDT2dkbEpWUk9oMkVrbGFlM1NCYmxlR3BMc3dv?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_4c557ff520f7",
+      "eventId": "crawled_4c557ff520f7",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — \"אם תשאלו יתום בן עשר מה החלום שלו, הוא יגיד 'לנקום את המוות של אבא שלי'\" - davar1.co.il",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8yd1lpb0ZsVV9xX0xEYW82U0ZKYXV2bkNhNWxtdURKSTZyUUNDT2dkbEpWUk9oMkVrbGFlM1NCYmxlR3BMc3dv?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_c5bb17f26998",
+      "type": "assassination",
+      "description": "חלוץ קבוצת נהר האן: לילות ללא שינה בגלל הזדמנות אליפות שהוחמצה, נחוש לנקום. - Vietnam.vn",
+      "details": "מקור: Vietnam.vn",
+      "date": "2026-03-13T03:20:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEZVTHhxUDRMWVFwTDZDRTJBVWIxdmVaX1N0RFVzRzVheGFrc2lsYm84UEUxalRKWmZvRTFrUWRtMlJlY0pjNUstZFhDUFNFXzdZa2JMai1BSE15ZW14OFY1dE5wX1IzaGtMRjB1ejRHVk9MTU5KZzJad1FqckJpRzg3VTVtU0RTYVB6M2Z1NkxUY2V5UkRnSXM1QQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_c5bb17f26998",
+      "eventId": "crawled_c5bb17f26998",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — חלוץ קבוצת נהר האן: לילות ללא שינה בגלל הזדמנות אליפות שהוחמצה, נחוש לנקום. - Vietnam.vn",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEZVTHhxUDRMWVFwTDZDRTJBVWIxdmVaX1N0RFVzRzVheGFrc2lsYm84UEUxalRKWmZvRTFrUWRtMlJlY0pjNUstZFhDUFNFXzdZa2JMai1BSE15ZW14OFY1dE5wX1IzaGtMRjB1ejRHVk9MTU5KZzJad1FqckJpRzg3VTVtU0RTYVB6M2Z1NkxUY2V5UkRnSXM1QQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_b3af7bba0300",
+      "type": "assassination",
+      "description": "הכי לוהטת בפרמיירליג חוזרת: אשת אקס יונייטד שמגיעה לנקום באולד טראפורד - ספורט 1",
+      "details": "מקור: ספורט 1",
+      "date": "2026-03-14T16:08:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LdUJPZFd2bFI5YlBXR0Z6TFNwZWxrWlBFcnNPZ0ZPR2hJNXVvc2dLV1M3V0pVZGg2OUczRHRTaFJWcmxQdV82NGJBdW1heDU2Rzg3NlZaVUNjazRuNkVfTA?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_b3af7bba0300",
+      "eventId": "crawled_b3af7bba0300",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — הכי לוהטת בפרמיירליג חוזרת: אשת אקס יונייטד שמגיעה לנקום באולד טראפורד - ספורט 1",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LdUJPZFd2bFI5YlBXR0Z6TFNwZWxrWlBFcnNPZ0ZPR2hJNXVvc2dLV1M3V0pVZGg2OUczRHRTaFJWcmxQdV82NGJBdW1heDU2Rzg3NlZaVUNjazRuNkVfTA?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_30a4d08e270e",
+      "type": "assassination",
+      "description": "פסק ג'יהאד: כל מוסלמי חייב לנקום את הריגת ח'מינאי - ערוץ 7",
+      "details": "מקור: ערוץ 7",
+      "date": "2026-03-04T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8ya19QZWJMZUxrb0R6R0xPaXV4OGpQWFB5UWJMRFlZTi1KR2pXYW5XSHpndmFOUlBqYVA4WTFkNXg1dlFqcVVoaQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_30a4d08e270e",
+      "eventId": "crawled_30a4d08e270e",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — פסק ג'יהאד: כל מוסלמי חייב לנקום את הריגת ח'מינאי - ערוץ 7",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8ya19QZWJMZUxrb0R6R0xPaXV4OGpQWFB5UWJMRFlZTi1KR2pXYW5XSHpndmFOUlBqYVA4WTFkNXg1dlFqcVVoaQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_43f54700e71c",
+      "type": "assassination",
+      "description": "\"ריינה תבוא לנקום על ה-6:1 בסיבוב הקודם\" - ספורט 5",
+      "details": "מקור: ספורט 5",
+      "date": "2026-01-02T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWRHNMaG1NcGhjU0dDcHhhWE9mZHptLUlRbDBBWmp5cUNsckZDUm9UZWhabTRXM0ZHaU5Gb3hpUkJoUElkb0VTRVlKYlNHQUVDdWd4Vlc1bnhRcTdoVUh2dmd2NjIyS0lNRnZ5MlJIWTY?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_43f54700e71c",
+      "eventId": "crawled_43f54700e71c",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — \"ריינה תבוא לנקום על ה-6:1 בסיבוב הקודם\" - ספורט 5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWRHNMaG1NcGhjU0dDcHhhWE9mZHptLUlRbDBBWmp5cUNsckZDUm9UZWhabTRXM0ZHaU5Gb3hpUkJoUElkb0VTRVlKYlNHQUVDdWd4Vlc1bnhRcTdoVUh2dmd2NjIyS0lNRnZ5MlJIWTY?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_04c055b13d16",
+      "type": "assassination",
+      "description": "תושבי טהראן ערוכים: \"מחכים שארה\"ב תתקוף כדי שנוכל לנקום\" - כאן 11",
+      "details": "מקור: כאן 11",
+      "date": "2026-02-19T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GTlNaMkJycG9rd2hQVkZNVFUxQWtzYmZFc3ZnOThpWEd5ZXN1OTBDbDJ4WnQ2ZDNyNXdMRDI0Tk94NTRkb0tkZ0VkS0hwUUVtNWU0N2FVNVF0aGtvYmNPU2NYT2FuZw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_04c055b13d16",
+      "eventId": "crawled_04c055b13d16",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — תושבי טהראן ערוכים: \"מחכים שארה\"ב תתקוף כדי שנוכל לנקום\" - כאן 11",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GTlNaMkJycG9rd2hQVkZNVFUxQWtzYmZFc3ZnOThpWEd5ZXN1OTBDbDJ4WnQ2ZDNyNXdMRDI0Tk94NTRkb0tkZ0VkS0hwUUVtNWU0N2FVNVF0aGtvYmNPU2NYT2FuZw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_f241b4e06aeb",
+      "type": "assassination",
+      "description": "\"להרוג את ביל\": דירוג הסצינות הגדולות מהסרט של טרנטינו - וואלה",
+      "details": "מקור: וואלה",
+      "date": "2026-02-09T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yOFVscnA2ckxPOEhaVURrcklHRmNXSXZ5ckVFZ1Qzb2xFWi1IMVpudHRkbndEZjRUYmpDUUxwX2Z2eEdsTnRfdDF3?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_f241b4e06aeb",
+      "eventId": "crawled_f241b4e06aeb",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — \"להרוג את ביל\": דירוג הסצינות הגדולות מהסרט של טרנטינו - וואלה",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yOFVscnA2ckxPOEhaVURrcklHRmNXSXZ5ckVFZ1Qzb2xFWi1IMVpudHRkbndEZjRUYmpDUUxwX2Z2eEdsTnRfdDF3?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_737876dd9eb6",
+      "type": "assassination",
+      "description": "חמאס: נקמנו את \"רצח\" נהג אגד - הידברות",
+      "details": "מקור: הידברות",
+      "date": "2014-11-18T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56bzdfNU95U2xWMTUtTnNqUTR3YktSVkRKQnYySzRuZ0R2ak1lZEVYMUFPa1dUc0Z0TkFSd0ZYdEUzWmx3QXNtX2VXSnY0a1Nt?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_737876dd9eb6",
+      "eventId": "crawled_737876dd9eb6",
+      "source": "hamas",
+      "description": "[OSINT] נקמה הוגשה — חמאס: נקמנו את \"רצח\" נהג אגד - הידברות",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56bzdfNU95U2xWMTUtTnNqUTR3YktSVkRKQnYySzRuZ0R2ak1lZEVYMUFPa1dUc0Z0TkFSd0ZYdEUzWmx3QXNtX2VXSnY0a1Nt?oc=5"
+    },
+    "status": "served_hot",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_1fbd8afebc27",
+      "type": "assassination",
+      "description": "\"נגיע לכל אחד ואחד מכם\": האם השכולה במסר תקיף לכל המחבלים - C14",
+      "details": "מקור: C14",
+      "date": "2025-11-25T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mdjdMSVRyX2RXMURSSlpRX3I0U3VZWHg4QW5raGdwZjJEVl9pTldpbDNyTlg0QUcwek53eEpocFpoNGRTdXd3eVQzbXZVZw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_1fbd8afebc27",
+      "eventId": "crawled_1fbd8afebc27",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — \"נגיע לכל אחד ואחד מכם\": האם השכולה במסר תקיף לכל המחבלים - C14",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mdjdMSVRyX2RXMURSSlpRX3I0U3VZWHg4QW5raGdwZjJEVl9pTldpbDNyTlg0QUcwek53eEpocFpoNGRTdXd3eVQzbXZVZw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_7142fe400799",
+      "type": "assassination",
+      "description": "צרפת טומנת את ראשה בחול - ynet",
+      "details": "מקור: ynet",
+      "date": "2015-01-09T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFM21SaEk5MlJVRnFFd0hDYlM4amNsRjdOQlE2TGkxWngtdWdTZ3BNeURoZE5zN3NjeWhHOU9nMTBPaW9OYmE0YUtjSndKSDBfWXpjVGRGUzNHRGlyTHJxT3BsLW4tbjQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_7142fe400799",
+      "eventId": "crawled_7142fe400799",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — צרפת טומנת את ראשה בחול - ynet",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFM21SaEk5MlJVRnFFd0hDYlM4amNsRjdOQlE2TGkxWngtdWdTZ3BNeURoZE5zN3NjeWhHOU9nMTBPaW9OYmE0YUtjSndKSDBfWXpjVGRGUzNHRGlyTHJxT3BsLW4tbjQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_06174b4549e8",
+      "type": "assassination",
+      "description": "חדשות - בארץ nrg - רמת גן: בני נוער יצאו לנקום בקשישים - מקור ראשון",
+      "details": "מקור: מקור ראשון",
+      "date": "2008-06-12T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KcG1tS1RaRk56ei03eTlZdEdmRzNfbVpUOVdmT210bmhjVlhPQ0dFWUpQeEFxUXJoMEhjWFR2azdoX25VSG1QcW1GZGJmeDFSWHhQYmt3THRZWnhmcVI5cXEzTk9RbC1MS1dLRQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_06174b4549e8",
+      "eventId": "crawled_06174b4549e8",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — חדשות - בארץ nrg - רמת גן: בני נוער יצאו לנקום בקשישים - מקור ראשון",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KcG1tS1RaRk56ei03eTlZdEdmRzNfbVpUOVdmT210bmhjVlhPQ0dFWUpQeEFxUXJoMEhjWFR2azdoX25VSG1QcW1GZGJmeDFSWHhQYmt3THRZWnhmcVI5cXEzTk9RbC1MS1dLRQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_dee9346a444a",
+      "type": "assassination",
+      "description": "חגיגות ברחבי לוב: יריות וקריאות \"שיילך לעזאזל\" - ynet",
+      "details": "מקור: ynet",
+      "date": "2011-10-20T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kdWQ4Q0JVb3kwSk0wbWxOWG1PR01GZDdlSnBxMmFBRDd5cFcyb3J1dlZPMDVVd2Y2cHhLdUVQTlZ6WVpwcEM2QkJ4bGtZdGpKcHhDZWwySzl6NGdtemh1OTdvYk50NjQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_dee9346a444a",
+      "eventId": "crawled_dee9346a444a",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — חגיגות ברחבי לוב: יריות וקריאות \"שיילך לעזאזל\" - ynet",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kdWQ4Q0JVb3kwSk0wbWxOWG1PR01GZDdlSnBxMmFBRDd5cFcyb3J1dlZPMDVVd2Y2cHhLdUVQTlZ6WVpwcEM2QkJ4bGtZdGpKcHhDZWwySzl6NGdtemh1OTdvYk50NjQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_c7dda5be61dd",
+      "type": "assassination",
+      "description": "נקמנו עבור ידידנו הגדול: חוסל בטהרן האיש ששלח מתנקש שכמעט הצליח לרצוח את טראמפ - news-israel.net",
+      "details": "מקור: news-israel.net",
+      "date": "2026-03-04T12:43:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNT29SQ3h1Zm41ZE9NZmlHUTAzNTNTMUNhYldXZ2lOdVJEMUVCTEU1cnp3RG5HQVhJYk04dTF1RXM5RFNPRXQxMTRPUHRsZWdvMmcwYTMya3N4X2V0bHRtbEh3VEdEQ25abTdzcVZETTJXbFhpbS1SVUZDd0dZOTRvM0hLd3hNQ1hobHlqNFFlbEVnWWFIMGNyTmx4blJWUWRvVzhhSVFZMVpIejlJWWNYVDlmVy1OOXF6Wm9zaDNsMTd5QWh6MzdpbXpRbUZGVWgwVHhBQ3lSNEEzZEJjbDBEekk0ZFJVLTF1NEVzRXQ0TlZYLUxNcGdQQ3V2UGd1ZW11Mnp5RVhxMG1oUzJqVzBZS0lpc3NhdWZCNmZGbVRjNGM2VlJ1WEJCX1k2Q1lqZ2Zld2c3NWFMWmV1LUpVV25QVW9wemI2eWxkS2tZaWpjbm5SYTF2dllScWJ2aw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_c7dda5be61dd",
+      "eventId": "crawled_c7dda5be61dd",
+      "source": "other",
+      "description": "[OSINT] נקמה הוגשה — נקמנו עבור ידידנו הגדול: חוסל בטהרן האיש ששלח מתנקש שכמעט הצליח לרצוח את טראמפ - news-israel.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNT29SQ3h1Zm41ZE9NZmlHUTAzNTNTMUNhYldXZ2lOdVJEMUVCTEU1cnp3RG5HQVhJYk04dTF1RXM5RFNPRXQxMTRPUHRsZWdvMmcwYTMya3N4X2V0bHRtbEh3VEdEQ25abTdzcVZETTJXbFhpbS1SVUZDd0dZOTRvM0hLd3hNQ1hobHlqNFFlbEVnWWFIMGNyTmx4blJWUWRvVzhhSVFZMVpIejlJWWNYVDlmVy1OOXF6Wm9zaDNsMTd5QWh6MzdpbXpRbUZGVWgwVHhBQ3lSNEEzZEJjbDBEekk0ZFJVLTF1NEVzRXQ0TlZYLUxNcGdQQ3V2UGd1ZW11Mnp5RVhxMG1oUzJqVzBZS0lpc3NhdWZCNmZGbVRjNGM2VlJ1WEJCX1k2Q1lqZ2Zld2c3NWFMWmV1LUpVV25QVW9wemI2eWxkS2tZaWpjbm5SYTF2dllScWJ2aw?oc=5"
+    },
+    "status": "served_hot",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_5b704f6a84c7",
+      "type": "assassination",
+      "description": "מנהיג איראן בפועל לריג'אני חוסל בדירת מסתור - וגם מפקד הבסיג' וסגנו - ynet",
+      "details": "מקור: ynet",
+      "date": "2026-03-17T08:21:49+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DN0xHdGdfdzl5bzc3OUJrZExvR0JuNVVZTEtFaEU2b3BHZko5UU52ZUZNa2tnMWY0bG5mTWZBS1o1bDdUcVB2aE9YTWI2bnBSUHRaSDlGSzA4cUk?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_5b704f6a84c7",
+      "eventId": "crawled_5b704f6a84c7",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — מנהיג איראן בפועל לריג'אני חוסל בדירת מסתור - וגם מפקד הבסיג' וסגנו - ynet",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DN0xHdGdfdzl5bzc3OUJrZExvR0JuNVVZTEtFaEU2b3BHZko5UU52ZUZNa2tnMWY0bG5mTWZBS1o1bDdUcVB2aE9YTWI2bnBSUHRaSDlGSzA4cUk?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_58c58aec8290",
+      "type": "assassination",
+      "description": "הסיוט של המפגינים נגמר: חוסל האיש שדיכא את איראן ביד ברזל - מעריב",
+      "details": "מקור: מעריב",
+      "date": "2026-03-17T09:03:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mS3hCSzhuVGxfSExJdzVrdXRjLXVEX1cwbjNJci00QWhXSWJRbWk5VU9zM0FPY0hhQ01VNGI5SlNvdUMxaVVwT2oxZHFpalUxMzhaeUwtTDJoQXo2WHNibQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_58c58aec8290",
+      "eventId": "crawled_58c58aec8290",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — הסיוט של המפגינים נגמר: חוסל האיש שדיכא את איראן ביד ברזל - מעריב",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mS3hCSzhuVGxfSExJdzVrdXRjLXVEX1cwbjNJci00QWhXSWJRbWk5VU9zM0FPY0hhQ01VNGI5SlNvdUMxaVVwT2oxZHFpalUxMzhaeUwtTDJoQXo2WHNibQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_ae39bd4cbf1a",
+      "type": "assassination",
+      "description": "לאריג'אני חוסל בדירת מסתור בטהרן, מפקד הבסיג' באוהל - mako",
+      "details": "מקור: mako",
+      "date": "2026-03-17T08:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oTHVJUEtUTlNPWlRtcTVJUGtSVHJaUV9ucTlhNDZlcFFOVDhVMmVISnRWcHc3YnJvMjlXeS1IdDB3VmVYMWRKQWFYSmlkRFJzeDNwNG9YbnBhTWp0OVdiTFc5QklsN0plc1JUajRYaWdRdFRu?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_ae39bd4cbf1a",
+      "eventId": "crawled_ae39bd4cbf1a",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — לאריג'אני חוסל בדירת מסתור בטהרן, מפקד הבסיג' באוהל - mako",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oTHVJUEtUTlNPWlRtcTVJUGtSVHJaUV9ucTlhNDZlcFFOVDhVMmVISnRWcHc3YnJvMjlXeS1IdDB3VmVYMWRKQWFYSmlkRFJzeDNwNG9YbnBhTWp0OVdiTFc5QklsN0plc1JUajRYaWdRdFRu?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_4c222163bc66",
+      "type": "assassination",
+      "description": "באיראן הודיעו באופן רשמי: עלי לאריג'אני חוסל בתקיפה - אמס",
+      "details": "מקור: אמס",
+      "date": "2026-03-17T21:49:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ORGxLbXFzZmgyTXROUnVRT3hNUDRzejZfYkxETHRBclRDZ3VlQVpYWEVyM0NlekxtLWhKOXNMeW5nWnllcHpHN1oyUl9CQQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_4c222163bc66",
+      "eventId": "crawled_4c222163bc66",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — באיראן הודיעו באופן רשמי: עלי לאריג'אני חוסל בתקיפה - אמס",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ORGxLbXFzZmgyTXROUnVRT3hNUDRzejZfYkxETHRBclRDZ3VlQVpYWEVyM0NlekxtLWhKOXNMeW5nWnllcHpHN1oyUl9CQQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_2f8f56571716",
+      "type": "assassination",
+      "description": "ישראל כ\"ץ מאשר: חוסל שר המודיעין האיראני; בני זוג מר\"ג נהרגו הלילה מטיל מתפצל - כלכליסט",
+      "details": "מקור: כלכליסט",
+      "date": "2026-03-18T09:41:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RdklGMmFpYm5Ta3ZhcDhWT0dBTjdIN00tbl94ZExreXRRVTZwdGdnWE5weTgwMFplREZDODVOSEFiRmlRMm41azZ4WUgxLWprUmlRMU5CSDFEY0hXNFk2OGdKUFp3Y3RIcjMw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_2f8f56571716",
+      "eventId": "crawled_2f8f56571716",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — ישראל כ\"ץ מאשר: חוסל שר המודיעין האיראני; בני זוג מר\"ג נהרגו הלילה מטיל מתפצל - כלכליסט",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RdklGMmFpYm5Ta3ZhcDhWT0dBTjdIN00tbl94ZExreXRRVTZwdGdnWE5weTgwMFplREZDODVOSEFiRmlRMm41azZ4WUgxLWprUmlRMU5CSDFEY0hXNFk2OGdKUFp3Y3RIcjMw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_7738a5d6d45d",
+      "type": "assassination",
+      "description": "חוסלו שר המודיעין של איראן - וגם המפקד החדש של חטיבת האימאם חוסיין - ynet",
+      "details": "מקור: ynet",
+      "date": "2026-03-18T08:04:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16WWFWZWJRZGRTYlhUM18xQklhSmdHQkFWNUxkOEtEeEhkRmRuTDMzQzNEVmM4Wi1RNmd3TUktNzBidzB5YUZTV1NnYkUxTkZ5NmNoZlFpdVpYQQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_7738a5d6d45d",
+      "eventId": "crawled_7738a5d6d45d",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — חוסלו שר המודיעין של איראן - וגם המפקד החדש של חטיבת האימאם חוסיין - ynet",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16WWFWZWJRZGRTYlhUM18xQklhSmdHQkFWNUxkOEtEeEhkRmRuTDMzQzNEVmM4Wi1RNmd3TUktNzBidzB5YUZTV1NnYkUxTkZ5NmNoZlFpdVpYQQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_a8437baa3e76",
+      "type": "assassination",
+      "description": "באיראן מאשרים: לאריג'אני חוסל | נתניהו במסר לעם האיראני: \"צאו לחגוג\" - כיכר השבת",
+      "details": "מקור: כיכר השבת",
+      "date": "2026-03-17T21:03:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43UnNNV0FXdm1zUkJITV9DZGp1MmwteE9lNXZZUzJpams3R2EzOTIzUlBsMzRlRF94VVJna1hOaHBTZGtSUEpXYWZfUXpjcjMyU1pXUg?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_a8437baa3e76",
+      "eventId": "crawled_a8437baa3e76",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — באיראן מאשרים: לאריג'אני חוסל | נתניהו במסר לעם האיראני: \"צאו לחגוג\" - כיכר השבת",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43UnNNV0FXdm1zUkJITV9DZGp1MmwteE9lNXZZUzJpams3R2EzOTIzUlBsMzRlRF94VVJna1hOaHBTZGtSUEpXYWZfUXpjcjMyU1pXUg?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_d6e8ad06b06a",
+      "type": "assassination",
+      "description": "המנהיג הבכיר ביותר באיראן חוסל • עדכונים ובשורות טובות - חב\"ד אינפו",
+      "details": "מקור: חב\"ד אינפו",
+      "date": "2026-03-17T14:32:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SUlhDbWF2Wm1RZXUyeVlNYlpWRU96SFdCNkoxcjhsTXlrYmpQS3Brb3ZpWlIzZDFXNDUyUFBTYS11QVFIbXRhQzZQVFp3Zw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_d6e8ad06b06a",
+      "eventId": "crawled_d6e8ad06b06a",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — המנהיג הבכיר ביותר באיראן חוסל • עדכונים ובשורות טובות - חב\"ד אינפו",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SUlhDbWF2Wm1RZXUyeVlNYlpWRU96SFdCNkoxcjhsTXlrYmpQS3Brb3ZpWlIzZDFXNDUyUFBTYS11QVFIbXRhQzZQVFp3Zw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_f434f910e88b",
+      "type": "assassination",
+      "description": "אישור רשמי בישראל: מפקד הבסיג' חוסל - ואיתו כל הפיקוד הבכיר שלו - mako",
+      "details": "מקור: mako",
+      "date": "2026-03-17T08:42:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbUkzS3NVWVRLVVR3SThPT1BCZ1BQcENhY3JNYU1ZVFFBUFdsWHdwRk9JRFhpRWhtWFdPajdOdzlnTEFtRHhCUm9oX0VfMkFDRWstTGs4ZnprRmdfRlFpTmpZM3V2VnRVYi1QMlJBRzVjOV9CZmJJc09MVkxMQnBibkJFeEZjdw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_f434f910e88b",
+      "eventId": "crawled_f434f910e88b",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — אישור רשמי בישראל: מפקד הבסיג' חוסל - ואיתו כל הפיקוד הבכיר שלו - mako",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbUkzS3NVWVRLVVR3SThPT1BCZ1BQcENhY3JNYU1ZVFFBUFdsWHdwRk9JRFhpRWhtWFdPajdOdzlnTEFtRHhCUm9oX0VfMkFDRWstTGs4ZnprRmdfRlFpTmpZM3V2VnRVYi1QMlJBRzVjOV9CZmJJc09MVkxMQnBibkJFeEZjdw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_1db863d7ad9b",
+      "type": "assassination",
+      "description": "יד ארוכה בכל החזיתות: חוסל מפקד המערך הימי של חמאס בצפון הרצועה - JDN",
+      "details": "מקור: JDN",
+      "date": "2026-03-17T20:33:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vbHBBRGRtdXNQVktuOE41ZUtVTXZJUEhyNzZ1XzdxQURWY1JtQWZFTUZRT1NtWmR2UXdQVGtrdUthZ19nSjJ0WElTdnA?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_1db863d7ad9b",
+      "eventId": "crawled_1db863d7ad9b",
+      "source": "hamas",
+      "description": "[OSINT] איום נקמה — יד ארוכה בכל החזיתות: חוסל מפקד המערך הימי של חמאס בצפון הרצועה - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vbHBBRGRtdXNQVktuOE41ZUtVTXZJUEhyNzZ1XzdxQURWY1JtQWZFTUZRT1NtWmR2UXdQVGtrdUthZ19nSjJ0WElTdnA?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_818d4142bd2c",
+      "type": "assassination",
+      "description": "בישראל מאשרים: שר המודיעין האיראני חוסל בדירת מסתור בטהרן - רשת 13",
+      "details": "מקור: רשת 13",
+      "date": "2026-03-18T09:46:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Y1lGTHBtOUkxcmxoN0lMazhuSVV4dVJQRFZSelNwYkJpZGV4Wl8zb0xEM3Z6c193UmMxMDlxS3RfeHhMbnhVMUVOSklXV0l1cHFJeElOMDFHYlQtTjVKZ2hoZ3gxcjlBLUtweDk3MDd1Zw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_818d4142bd2c",
+      "eventId": "crawled_818d4142bd2c",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — בישראל מאשרים: שר המודיעין האיראני חוסל בדירת מסתור בטהרן - רשת 13",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Y1lGTHBtOUkxcmxoN0lMazhuSVV4dVJQRFZSelNwYkJpZGV4Wl8zb0xEM3Z6c193UmMxMDlxS3RfeHhMbnhVMUVOSklXV0l1cHFJeElOMDFHYlQtTjVKZ2hoZ3gxcjlBLUtweDk3MDd1Zw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_e4bca4dddcfa",
+      "type": "assassination",
+      "description": "דיווח: שר המודיעין של איראן חוסל בתקיפה הלילה בטהרן - מעריב",
+      "details": "מקור: מעריב",
+      "date": "2026-03-18T08:04:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiR1NqRlA1N00tMUdrelliTnM1bVdtY2RfQkRuVVkzWHYwSTZsMEl5cXVTSHV2UllFRXB0QmdqSUpJTFdCcDNFY1F6ckd1bzQxR3dQVlRMMEc3bm5PWm03RWRBa0E?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_e4bca4dddcfa",
+      "eventId": "crawled_e4bca4dddcfa",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — דיווח: שר המודיעין של איראן חוסל בתקיפה הלילה בטהרן - מעריב",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiR1NqRlA1N00tMUdrelliTnM1bVdtY2RfQkRuVVkzWHYwSTZsMEl5cXVTSHV2UllFRXB0QmdqSUpJTFdCcDNFY1F6ckd1bzQxR3dQVlRMMEc3bm5PWm03RWRBa0E?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_c9abcb47ed9d",
+      "type": "assassination",
+      "description": "בתקיפה מדויקת בהכוונת מודיעין חיל הים: חוסל מפקד חטיבת צפון רצועת עזה במערך הימי של חמאס - idf.il",
+      "details": "מקור: idf.il",
+      "date": "2026-03-17T19:41:20+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxOcVo4cHkyVXRGWTFhNGpOSEllQ2o5b2daVGNHRWxkS2Vubk02dXZETFhEakZCOUpTUm95RTluaDVNaUZqOVdUZVY0THYwblRqMzZTbzJacWlySzBwanVCSG03Q2hucDFBMjNiazA3Z3RBeG5LVDBSQTZLRzhVV0oxTDRTcklBMlE0Y1dkOUlVWlE4NGZIQ0swR2VmdzZwWDN4VVhrU25rZ1o3YXo3eWtyck1lX3BudWxPSUdPdGY2YWw0UnFlZmZXMGNqLUE0cEtnQXZ2S0o3bl9nZFBITHhRaEpxNTZEYV9fMGhRV0MtMGM5bURxV1lsZE1tdGhQZnRJLWtjY1hvSUNUNHZMUXlwU0M0YUlhRWlnWXVfaFpLWUswZmNBdGZrQndSQ2hnSmJId1RRS2pkOVc3bFdQSmROSVdoWFFSemtLbGR0QkR2ZUxfbzhCRTEtVjVOb3QwaEhXRy1BRmx5T0t1NG1fV2pXVGhucEJEaGQ1R25xS3hnM0tVNGRuaGVWbVBsN2laNFdLVVc2Nmhxb0FYZUNac2J2UklwRjluUFlpc3BGQWVjWGZBZVNva2I2bi1TRG52d2NERXlULVdXNzl5N2dNTG1nYkxFakZLaTRBRTNiQnpVMFZTWDJnOEMwYjJoZUVDaHdidjExNE9qUGthbUxuTHFqMWRoT2tKNTUtUDh2cy1PWWx1UUtUNzdKdFNyWTdJMVpieEZVeG9TZFQtVFJrTVRiaHBrT2FGQUhBclBYOHFDNmhSVTB2YUoyZUVubTVEMTkzakd4X3psZmdWR2o2cGVDLUVB?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_c9abcb47ed9d",
+      "eventId": "crawled_c9abcb47ed9d",
+      "source": "hamas",
+      "description": "[OSINT] איום נקמה — בתקיפה מדויקת בהכוונת מודיעין חיל הים: חוסל מפקד חטיבת צפון רצועת עזה במערך הימי של חמאס - idf.il",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxOcVo4cHkyVXRGWTFhNGpOSEllQ2o5b2daVGNHRWxkS2Vubk02dXZETFhEakZCOUpTUm95RTluaDVNaUZqOVdUZVY0THYwblRqMzZTbzJacWlySzBwanVCSG03Q2hucDFBMjNiazA3Z3RBeG5LVDBSQTZLRzhVV0oxTDRTcklBMlE0Y1dkOUlVWlE4NGZIQ0swR2VmdzZwWDN4VVhrU25rZ1o3YXo3eWtyck1lX3BudWxPSUdPdGY2YWw0UnFlZmZXMGNqLUE0cEtnQXZ2S0o3bl9nZFBITHhRaEpxNTZEYV9fMGhRV0MtMGM5bURxV1lsZE1tdGhQZnRJLWtjY1hvSUNUNHZMUXlwU0M0YUlhRWlnWXVfaFpLWUswZmNBdGZrQndSQ2hnSmJId1RRS2pkOVc3bFdQSmROSVdoWFFSemtLbGR0QkR2ZUxfbzhCRTEtVjVOb3QwaEhXRy1BRmx5T0t1NG1fV2pXVGhucEJEaGQ1R25xS3hnM0tVNGRuaGVWbVBsN2laNFdLVVc2Nmhxb0FYZUNac2J2UklwRjluUFlpc3BGQWVjWGZBZVNva2I2bi1TRG52d2NERXlULVdXNzl5N2dNTG1nYkxFakZLaTRBRTNiQnpVMFZTWDJnOEMwYjJoZUVDaHdidjExNE9qUGthbUxuTHFqMWRoT2tKNTUtUDh2cy1PWWx1UUtUNzdKdFNyWTdJMVpieEZVeG9TZFQtVFJrTVRiaHBrT2FGQUhBclBYOHFDNmhSVTB2YUoyZUVubTVEMTkzakd4X3psZmdWR2o2cGVDLUVB?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_eeda81b0a3ac",
+      "type": "assassination",
+      "description": "בכיר חמאס שהוביל רכש חומרי גלם לייצור רקטות – חוסל מהאוויר - JDN",
+      "details": "מקור: JDN",
+      "date": "2026-03-18T08:04:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zRkxrQnNadWRTY2ZFTFlXQnJmU3lSLTgwYlFyd2tLVEItWUE5OXdWWGxLRjVISDJMdUNzN1FzSkROTHJDeUpNYXJzdw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_eeda81b0a3ac",
+      "eventId": "crawled_eeda81b0a3ac",
+      "source": "hamas",
+      "description": "[OSINT] איום נקמה — בכיר חמאס שהוביל רכש חומרי גלם לייצור רקטות – חוסל מהאוויר - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zRkxrQnNadWRTY2ZFTFlXQnJmU3lSLTgwYlFyd2tLVEItWUE5OXdWWGxLRjVISDJMdUNzN1FzSkROTHJDeUpNYXJzdw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_8df71f59e9cf",
+      "type": "assassination",
+      "description": "מצוד בטהרן ובביירות: האם שר המודיעין האיראני חוסל? - בחדרי חרדים",
+      "details": "מקור: בחדרי חרדים",
+      "date": "2026-03-18T09:35:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kWWpsQmFrbDdTdFNsdUV5LVg3NlpuRm1pM0lwdk5QQ1FJRzJJRWtCcWJNSk9BaWNuUlVycUpxZENVU3ZXR0ptd2RFNA?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_8df71f59e9cf",
+      "eventId": "crawled_8df71f59e9cf",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — מצוד בטהרן ובביירות: האם שר המודיעין האיראני חוסל? - בחדרי חרדים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kWWpsQmFrbDdTdFNsdUV5LVg3NlpuRm1pM0lwdk5QQ1FJRzJJRWtCcWJNSk9BaWNuUlVycUpxZENVU3ZXR0ptd2RFNA?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_54decd2eeb96",
+      "type": "assassination",
+      "description": "טעות מביכה בצה\"ל: תמונת מתנגד המשטר באיראן הוצגה כמחבל מחוסל - MSN",
+      "details": "מקור: MSN",
+      "date": "2026-03-17T19:39:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQb015MUNhN1FIWkVhVWhlTjRrNkJ3X0hRZmdLTURYYkVNTk1WdTNPaGgyalpYa1IxMTZWLTAwd2l0WXFmWkFuYnBQbzk5Q0JBdjhETnF0czFHOE9xSnJ1bDlNWmNTUlRRU2UtTWw5ZnhpcjduZkNPbDRTMzFvaWJYb0dQZ3lwb055WGVTOGp3NmstYnl2dl9yVmstcFVtZVhmZnNmNG9pbjJ5WGdMOTlJZ2RWV2RDcFZtY0xjMzY0ek11WkFic2FraEVsRGtSdFRiZHRQNnRpTHJUY0lTejZMMXRnWE5qaGFidWhlaVJ5UTB5LXZZY19nZXpBaTZ0OGE1T3JiR2NNVTdRd1VIR1NzUUl6SkhYR0pKWmJBYm54NUl2QlFoa0g5VFRxLVMzbk5KazFndGg5Umh3R3o1QmJRNXZwR1BQWmdRNHNmMXg2X2F0eXNUa1pvSXFLdXdvWXZvZUVCUU5RU1Vra3FGTHZUbzBMTnJqZ1gybWZuWkIxVlB6OWZBcUVDTjFmcklfcExpSHZkYy0xQXJNUXZEODd4aTUwOGNZNmdILWhZcU1YRkpsZDVWcmR2ZThjVGVDc0FlYXN0SkZmQjJYaEYwNTRIcmcwbHVRd1hmdWJ6RlRtTzdXMEJRVkJtTEl1WVVVNVhxYkE?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_54decd2eeb96",
+      "eventId": "crawled_54decd2eeb96",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — טעות מביכה בצה\"ל: תמונת מתנגד המשטר באיראן הוצגה כמחבל מחוסל - MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQb015MUNhN1FIWkVhVWhlTjRrNkJ3X0hRZmdLTURYYkVNTk1WdTNPaGgyalpYa1IxMTZWLTAwd2l0WXFmWkFuYnBQbzk5Q0JBdjhETnF0czFHOE9xSnJ1bDlNWmNTUlRRU2UtTWw5ZnhpcjduZkNPbDRTMzFvaWJYb0dQZ3lwb055WGVTOGp3NmstYnl2dl9yVmstcFVtZVhmZnNmNG9pbjJ5WGdMOTlJZ2RWV2RDcFZtY0xjMzY0ek11WkFic2FraEVsRGtSdFRiZHRQNnRpTHJUY0lTejZMMXRnWE5qaGFidWhlaVJ5UTB5LXZZY19nZXpBaTZ0OGE1T3JiR2NNVTdRd1VIR1NzUUl6SkhYR0pKWmJBYm54NUl2QlFoa0g5VFRxLVMzbk5KazFndGg5Umh3R3o1QmJRNXZwR1BQWmdRNHNmMXg2X2F0eXNUa1pvSXFLdXdvWXZvZUVCUU5RU1Vra3FGTHZUbzBMTnJqZ1gybWZuWkIxVlB6OWZBcUVDTjFmcklfcExpSHZkYy0xQXJNUXZEODd4aTUwOGNZNmdILWhZcU1YRkpsZDVWcmR2ZThjVGVDc0FlYXN0SkZmQjJYaEYwNTRIcmcwbHVRd1hmdWJ6RlRtTzdXMEJRVkJtTEl1WVVVNVhxYkE?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_d1b1c4cd213b",
+      "type": "assassination",
+      "description": "טעות מביכה בצה\"ל: תמונת מתנגד המשטר באיראן הוצגה כמחבל מחוסל - מעריב",
+      "details": "מקור: מעריב",
+      "date": "2026-03-13T19:44:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RNFl1V09Lb0RHMVN0Wlc4SzRTbjM1UVFjWGk0em9nQWw0dk5UMm96SGJYMHhwZ3A4ajUyaG1aMEVpV1NGbVVkYmRNWnlpZlVnRktwVjFPQXNjRk9xV3hMd3lFOFM?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_d1b1c4cd213b",
+      "eventId": "crawled_d1b1c4cd213b",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — טעות מביכה בצה\"ל: תמונת מתנגד המשטר באיראן הוצגה כמחבל מחוסל - מעריב",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RNFl1V09Lb0RHMVN0Wlc4SzRTbjM1UVFjWGk0em9nQWw0dk5UMm96SGJYMHhwZ3A4ajUyaG1aMEVpV1NGbVVkYmRNWnlpZlVnRktwVjFPQXNjRk9xV3hMd3lFOFM?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_e735e506c18b",
+      "type": "assassination",
+      "description": "\"צריכים מהלך מקיף שבסופו של דבר חיזבאללה מחוסל\" - 104.5 FM רדיו צפון",
+      "details": "מקור: 104.5 FM רדיו צפון",
+      "date": "2026-03-16T09:45:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFJrVUdIVG80X1p3aUFTMUNUanJYTDhsa1pYTHFYZjhiS2JTRWI5VTY3UDJFT2RUTTlhUzhSV080cmVyeklrNTlVaVhfNnNCNF85RkstLXQzNVRmTHU3Z1U3dlJDZjRlMGdNMWoyM2o2TkVaelBOcjJxSG82S3QwVWMwYw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_e735e506c18b",
+      "eventId": "crawled_e735e506c18b",
+      "source": "hezbollah",
+      "description": "[OSINT] איום נקמה — \"צריכים מהלך מקיף שבסופו של דבר חיזבאללה מחוסל\" - 104.5 FM רדיו צפון",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFJrVUdIVG80X1p3aUFTMUNUanJYTDhsa1pYTHFYZjhiS2JTRWI5VTY3UDJFT2RUTTlhUzhSV080cmVyeklrNTlVaVhfNnNCNF85RkstLXQzNVRmTHU3Z1U3dlJDZjRlMGdNMWoyM2o2TkVaelBOcjJxSG82S3QwVWMwYw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_e2b4caabc5fc",
+      "type": "assassination",
+      "description": "הרב אברהם סרוגו, שליח חב''ד בגוודלחרה: \"כל מי שמנסה להרים ראש - מחוסל\" - חרדים10",
+      "details": "מקור: חרדים10",
+      "date": "2026-02-23T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9QckV5b2s4TFE4Y00zRnRBREY1Nm44RklFQVRNSXNFM0EwX2VodlN3NEFnTWZtLUl6emZ3MEwwd25MYjVrUTBZ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_e2b4caabc5fc",
+      "eventId": "crawled_e2b4caabc5fc",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — הרב אברהם סרוגו, שליח חב''ד בגוודלחרה: \"כל מי שמנסה להרים ראש - מחוסל\" - חרדים10",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9QckV5b2s4TFE4Y00zRnRBREY1Nm44RklFQVRNSXNFM0EwX2VodlN3NEFnTWZtLUl6emZ3MEwwd25MYjVrUTBZ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_b32cad96ef4c",
+      "type": "assassination",
+      "description": "שנה אחרי חיסול נסראללה - השינוי הדרמטי בדרום לבנון: \"כל מחבל שמתקרב מחוסל במקום\" - mako",
+      "details": "מקור: mako",
+      "date": "2025-09-30T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRERFVllVMXB6cll6ZzFWS1UzZDFpM2NXU3UxMTlTMzJFSXAwUDVGbTNjaG1hTEowampHbXpiTXRZVXNnV2hhQ2hDeHN3Y2laVkxGZGNBbHU0MkIxQXNjYjM3UzFuektTV1NKZXRZbE9UMVhERlhydmVQR2UtcENCLQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_b32cad96ef4c",
+      "eventId": "crawled_b32cad96ef4c",
+      "source": "hezbollah",
+      "description": "[OSINT] איום נקמה — שנה אחרי חיסול נסראללה - השינוי הדרמטי בדרום לבנון: \"כל מחבל שמתקרב מחוסל במקום\" - mako",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRERFVllVMXB6cll6ZzFWS1UzZDFpM2NXU3UxMTlTMzJFSXAwUDVGbTNjaG1hTEowampHbXpiTXRZVXNnV2hhQ2hDeHN3Y2laVkxGZGNBbHU0MkIxQXNjYjM3UzFuektTV1NKZXRZbE9UMVhERlhydmVQR2UtcENCLQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_cbb85c7d86c8",
+      "type": "assassination",
+      "description": "מחוסל שלישי מהבוקר: צה\"ל תקף מחבל חיזבאללה בדרום לבנון - סרוגים",
+      "details": "מקור: סרוגים",
+      "date": "2025-12-25T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOTDcyRE5fLWp1RHZ1TDN5QXVVdHk3YW9FODhBaU5oVXpPek1NUzc1RkZrd1lRT21TZEZHdWZ4X3Z0Z1ZUb1p1U05QTXQ3dkQ0ekxfV3E3YnlJQWFOeGotSGJfQWFoZTl1bEw3ckNqeDEyckRmc2NjR2lhN09qSjRpQ0FrM3dTYkdwc3p6THJNenJiX3R0clNodktGdjJ6UmRRQnBpejlXZGJmVzZlUzZCS1ZBU2dUOTB2bEJTZ1IzbTRaMDBibmJ6N0UxMkk3bkdNbGtacXpsVVVZRTlwNzVaWG9WMkpuWkVrSldCdS0tQ1J4cHF1TkI3V3M3RDBHSncxZ1ltZGlmbXVOWE5sVC1kT1ljSFpVZENSMWtOU2hlTFl3RTl4TkpHenFMeE5ySDc2OXNVeW10aFcwYmJMMXdEZFpCLWNjNmNY?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_cbb85c7d86c8",
+      "eventId": "crawled_cbb85c7d86c8",
+      "source": "hezbollah",
+      "description": "[OSINT] איום נקמה — מחוסל שלישי מהבוקר: צה\"ל תקף מחבל חיזבאללה בדרום לבנון - סרוגים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOTDcyRE5fLWp1RHZ1TDN5QXVVdHk3YW9FODhBaU5oVXpPek1NUzc1RkZrd1lRT21TZEZHdWZ4X3Z0Z1ZUb1p1U05QTXQ3dkQ0ekxfV3E3YnlJQWFOeGotSGJfQWFoZTl1bEw3ckNqeDEyckRmc2NjR2lhN09qSjRpQ0FrM3dTYkdwc3p6THJNenJiX3R0clNodktGdjJ6UmRRQnBpejlXZGJmVzZlUzZCS1ZBU2dUOTB2bEJTZ1IzbTRaMDBibmJ6N0UxMkk3bkdNbGtacXpsVVVZRTlwNzVaWG9WMkpuWkVrSldCdS0tQ1J4cHF1TkI3V3M3RDBHSncxZ1ltZGlmbXVOWE5sVC1kT1ljSFpVZENSMWtOU2hlTFl3RTl4TkpHenFMeE5ySDc2OXNVeW10aFcwYmJMMXdEZFpCLWNjNmNY?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_b5f65d6b3ad5",
+      "type": "assassination",
+      "description": "דיווחים בלבנון: מחוסל ושני פצועים בתקיפות ישראליות בדרום המדינה - היום",
+      "details": "מקור: היום",
+      "date": "2025-07-05T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDZDgtbm9TWHpiNU5oTk9ycVFFUktONGRVRG83Tm4wZGpiWmNmVzhfdnA2SWVqOHFhb2lycXpqYzBUb3lDdHcxWE40cExWU3pmR0IwMlpkRWtTSFAxMFNFLTlKTjlEYkY2OXhJ0gFzQVVfeXFMTjlyZ3hyWklnd2RnMFI3Tm00dmVnRm5ZNm9fQkxieE9uWnpycXhaalE1b3c1Z0ZBTzVQU0NnR2F3Q0QzcHFCWGZZejZFMFdOVnNlZFU4emRMX2xLczhNcnVGNWNCSzBvMGpGd2pTZ2JwbUk2TQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_b5f65d6b3ad5",
+      "eventId": "crawled_b5f65d6b3ad5",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — דיווחים בלבנון: מחוסל ושני פצועים בתקיפות ישראליות בדרום המדינה - היום",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDZDgtbm9TWHpiNU5oTk9ycVFFUktONGRVRG83Tm4wZGpiWmNmVzhfdnA2SWVqOHFhb2lycXpqYzBUb3lDdHcxWE40cExWU3pmR0IwMlpkRWtTSFAxMFNFLTlKTjlEYkY2OXhJ0gFzQVVfeXFMTjlyZ3hyWklnd2RnMFI3Tm00dmVnRm5ZNm9fQkxieE9uWnpycXhaalE1b3c1Z0ZBTzVQU0NnR2F3Q0QzcHFCWGZZejZFMFdOVnNlZFU4emRMX2xLczhNcnVGNWNCSzBvMGpGd2pTZ2JwbUk2TQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_9116ee3917da",
+      "type": "assassination",
+      "description": "דיווח: מטען חבלה התפוצץ באופנוע במזרח דיר א-זור, מחוסל במקום - JDN",
+      "details": "מקור: JDN",
+      "date": "2025-12-23T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwVDNMTUpJMF8wd0tSMHdSdjhBUE9icVRyOHZ5VlRoRDQ0YzQxdmZaZ1l5ZzBLLTN6X1YyTXFHNUdqSDJaZVpVQVZockloOVk?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_9116ee3917da",
+      "eventId": "crawled_9116ee3917da",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — דיווח: מטען חבלה התפוצץ באופנוע במזרח דיר א-זור, מחוסל במקום - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwVDNMTUpJMF8wd0tSMHdSdjhBUE9icVRyOHZ5VlRoRDQ0YzQxdmZaZ1l5ZzBLLTN6X1YyTXFHNUdqSDJaZVpVQVZockloOVk?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_07c68abe94b6",
+      "type": "assassination",
+      "description": "תיעוד מחאן יונס: המחבלים יוצאים מהפיר לתקוף, אחד מהם מחוסל - ערוץ 7",
+      "details": "מקור: ערוץ 7",
+      "date": "2025-08-20T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mWGVTcjAyM0ZoZTNjbEJlWjdONHRtcElBUEVvdzZKZTdldHpmcEhaSUJQMGVOUXpFZmhrSDhiRkgwQzNSbkdNWA?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_07c68abe94b6",
+      "eventId": "crawled_07c68abe94b6",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — תיעוד מחאן יונס: המחבלים יוצאים מהפיר לתקוף, אחד מהם מחוסל - ערוץ 7",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mWGVTcjAyM0ZoZTNjbEJlWjdONHRtcElBUEVvdzZKZTdldHpmcEhaSUJQMGVOUXpFZmhrSDhiRkgwQzNSbkdNWA?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_0156f50ada1d",
+      "type": "assassination",
+      "description": "עודה תקף את הממשלה בצעדה ערבית בחיפה | בן גביר: \"להסיר לו את החסינות ולהעמיד אותו לדין\" - כיכר השבת",
+      "details": "מקור: כיכר השבת",
+      "date": "2025-05-31T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUtLNzd5WlVIeEtxY3NkeGlFU3l4Vy1UcEdpeWd5OTdDdkNvT1dDY0ZkeEdHM1J1WlhjTUVra3RlWENocHZJazk5d3BMTTZ5bjA2Um1qWnBESXNOell6OGhaT3lzeG5GU1k3TVhtUVdDaUVNZTNDX0VKaUhxYkNURA?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_0156f50ada1d",
+      "eventId": "crawled_0156f50ada1d",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — עודה תקף את הממשלה בצעדה ערבית בחיפה | בן גביר: \"להסיר לו את החסינות ולהעמיד אותו לדין\" - כיכר השבת",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUtLNzd5WlVIeEtxY3NkeGlFU3l4Vy1UcEdpeWd5OTdDdkNvT1dDY0ZkeEdHM1J1WlhjTUVra3RlWENocHZJazk5d3BMTTZ5bjA2Um1qWnBESXNOell6OGhaT3lzeG5GU1k3TVhtUVdDaUVNZTNDX0VKaUhxYkNURA?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_fea0105ad4a5",
+      "type": "assassination",
+      "description": "תקיפה ממוקדת בדרום לבנון: דיווחים על מחבל מחוסל - C14",
+      "details": "מקור: C14",
+      "date": "2025-06-01T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tMzVWNTdrLVQ4ZWlST0IwTjZvQzFXY0dKdDZHSzZncnhGaTlNbGkyY2F4M21GUk1qb1F3OGpVVi1DYUpOWlZBRlR4azk2Zw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_fea0105ad4a5",
+      "eventId": "crawled_fea0105ad4a5",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — תקיפה ממוקדת בדרום לבנון: דיווחים על מחבל מחוסל - C14",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tMzVWNTdrLVQ4ZWlST0IwTjZvQzFXY0dKdDZHSzZncnhGaTlNbGkyY2F4M21GUk1qb1F3OGpVVi1DYUpOWlZBRlR4azk2Zw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_b7478021806b",
+      "type": "assassination",
+      "description": "ח\"כ איימן עודה עורר סערה: \"עזה ניצחה - ועזה תנצח\" - i24NEWS",
+      "details": "מקור: i24NEWS",
+      "date": "2025-05-31T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2LW15cnJLcGdrVnlUWC12R1kweGFCR3ZoQzdxSWhkdjl3eXJjWEhoaHN5UDV5a1VqM0htSjlWUmQtYmF4eDJ5bWMwQXk2dkgwMGJiSDNPa3pTN0k0MjNPOU5GYUtpeTZ0TVE?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_b7478021806b",
+      "eventId": "crawled_b7478021806b",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — ח\"כ איימן עודה עורר סערה: \"עזה ניצחה - ועזה תנצח\" - i24NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2LW15cnJLcGdrVnlUWC12R1kweGFCR3ZoQzdxSWhkdjl3eXJjWEhoaHN5UDV5a1VqM0htSjlWUmQtYmF4eDJ5bWMwQXk2dkgwMGJiSDNPa3pTN0k0MjNPOU5GYUtpeTZ0TVE?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_d9bc4dc78469",
+      "type": "assassination",
+      "description": "פעיל חיזבאללה מחוסל מהאוויר בדרום לבנון - mako",
+      "details": "מקור: mako",
+      "date": "2025-11-22T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXItT0hOelduNjJOY3ZtMkQxcXNSNW1UR0Nua0lMeVYyeDRWR0VqWGdUVUtoRXRtNEd4RVJTT3cya2hoV3dIY3lIbDY5enUycEFfd294YjVPMTdNT25uZmlPeGVhNXo5TDdfYTBoN1Vvd1Q3MFhaY0RIeW8xdEZiZG5QczhSUQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_d9bc4dc78469",
+      "eventId": "crawled_d9bc4dc78469",
+      "source": "hezbollah",
+      "description": "[OSINT] איום נקמה — פעיל חיזבאללה מחוסל מהאוויר בדרום לבנון - mako",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXItT0hOelduNjJOY3ZtMkQxcXNSNW1UR0Nua0lMeVYyeDRWR0VqWGdUVUtoRXRtNEd4RVJTT3cya2hoV3dIY3lIbDY5enUycEFfd294YjVPMTdNT25uZmlPeGVhNXo5TDdfYTBoN1Vvd1Q3MFhaY0RIeW8xdEZiZG5QczhSUQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_f1de0ddb17b0",
+      "type": "assassination",
+      "description": "מחוסל ראשון בתקיפות: תיעד את עצמו משתתף בטבח - JDN",
+      "details": "מקור: JDN",
+      "date": "2025-05-13T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82VkZzYV9iamhCSjg5OFRXOGNKZS1QVDdhX0NFNld5M2hkMVVDT0RTMmlraS1wcE1yWGlZQXVNbTBpSEh1Y0d2SWwwRQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_f1de0ddb17b0",
+      "eventId": "crawled_f1de0ddb17b0",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — מחוסל ראשון בתקיפות: תיעד את עצמו משתתף בטבח - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82VkZzYV9iamhCSjg5OFRXOGNKZS1QVDdhX0NFNld5M2hkMVVDT0RTMmlraS1wcE1yWGlZQXVNbTBpSEh1Y0d2SWwwRQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_c6141f5d85cd",
+      "type": "assassination",
+      "description": "תניחו לו לנפשו, אם זה היה תלוי בנתניהו - מוחמד דף היה מחוסל לפני הבר מצווה שלו | בן כספית - מעריב",
+      "details": "מקור: מעריב",
+      "date": "2026-02-07T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zSmNObXR5MlFxeG1tcG5Na2ZmTjNjQXJsYnF6emR1bTZKWElEcE9DV3dCSGRkYTYyMEVpWGdTa0UxZ1VIUU9UWWxGdm1jWXF3T1ZXZWFxQkUtV2pKb2J0TFp4Nmw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_c6141f5d85cd",
+      "eventId": "crawled_c6141f5d85cd",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — תניחו לו לנפשו, אם זה היה תלוי בנתניהו - מוחמד דף היה מחוסל לפני הבר מצווה שלו | בן כספית - מעריב",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zSmNObXR5MlFxeG1tcG5Na2ZmTjNjQXJsYnF6emR1bTZKWElEcE9DV3dCSGRkYTYyMEVpWGdTa0UxZ1VIUU9UWWxGdm1jWXF3T1ZXZWFxQkUtV2pKb2J0TFp4Nmw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_4833cc295e23",
+      "type": "assassination",
+      "description": "חיסלנו, התנקשנו. עכשיו מה? - הארץ",
+      "details": "מקור: הארץ",
+      "date": "2026-03-17T16:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2ExT1ZnWnQwbkJSXzhGUTk3c2hjV2d4bl9aQ0hhc0NSc0FxZzNya2x1bEV5YnM5UlUtNnY0V0hRQUhKdHhQdDhhWGR1OXFqcTVtNkRta0Rad21LN2hxeVc3RW1JcGdLdDlveXBuWVBiZHU5cXFOVVdWWVNhMEJYVV9rY3ZCamp3dlZOeWx2Y1ZqdXMwa1Z0Q3NvQTRYeGgySnFOLTA5bk1WV0k?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_4833cc295e23",
+      "eventId": "crawled_4833cc295e23",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — חיסלנו, התנקשנו. עכשיו מה? - הארץ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2ExT1ZnWnQwbkJSXzhGUTk3c2hjV2d4bl9aQ0hhc0NSc0FxZzNya2x1bEV5YnM5UlUtNnY0V0hRQUhKdHhQdDhhWGR1OXFqcTVtNkRta0Rad21LN2hxeVc3RW1JcGdLdDlveXBuWVBiZHU5cXFOVVdWWVNhMEJYVV9rY3ZCamp3dlZOeWx2Y1ZqdXMwa1Z0Q3NvQTRYeGgySnFOLTA5bk1WV0k?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_6333c222e895",
+      "type": "assassination",
+      "description": "כ\"ץ: חיסלנו את שר המודיעין האיראני; \"הפתעות\" בהמשך היום - סרוגים",
+      "details": "מקור: סרוגים",
+      "date": "2026-03-18T10:16:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xc1l2b0d6STlDYnB0OFNHVFlVMU1UTDAwMFludGJURHU3TFdjVmNONExKYVJ6VXBBWnhKWDI1MEVUTWdXVlhZRWFkMmxzZw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_6333c222e895",
+      "eventId": "crawled_6333c222e895",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — כ\"ץ: חיסלנו את שר המודיעין האיראני; \"הפתעות\" בהמשך היום - סרוגים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xc1l2b0d6STlDYnB0OFNHVFlVMU1UTDAwMFludGJURHU3TFdjVmNONExKYVJ6VXBBWnhKWDI1MEVUTWdXVlhZRWFkMmxzZw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_637057c64c1e",
+      "type": "assassination",
+      "description": "שר הביטחון מאשר: חיסלנו הלילה את שר המודיעין האיראני - C14",
+      "details": "מקור: C14",
+      "date": "2026-03-18T08:13:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RaVpiVVpXN21wLXlJNmFWdUNabDZwYngtZjR2V2JkRWRITk14ZDJIeW5JdG1Vd05HUnhSUjB2bWtoUDBnOXpNQlZ0R3VaUQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_637057c64c1e",
+      "eventId": "crawled_637057c64c1e",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — שר הביטחון מאשר: חיסלנו הלילה את שר המודיעין האיראני - C14",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RaVpiVVpXN21wLXlJNmFWdUNabDZwYngtZjR2V2JkRWRITk14ZDJIeW5JdG1Vd05HUnhSUjB2bWtoUDBnOXpNQlZ0R3VaUQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_87d47b50f0ab",
+      "type": "assassination",
+      "description": "רה\"מ נתניהו: \"חיסלנו את הבוס של חבורת הגנגסטרים – יש עוד הרבה הפתעות\" - JDN",
+      "details": "מקור: JDN",
+      "date": "2026-03-17T13:21:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IMVA1LUJXZTdFUnlGbjZ2bUxIY2pWOFBvQXBzby1fOVZEWEduQU5CNG4wZUxUTUZHVFRBSk0xSDlta2ZOQXg4RDZSbw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_87d47b50f0ab",
+      "eventId": "crawled_87d47b50f0ab",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — רה\"מ נתניהו: \"חיסלנו את הבוס של חבורת הגנגסטרים – יש עוד הרבה הפתעות\" - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IMVA1LUJXZTdFUnlGbjZ2bUxIY2pWOFBvQXBzby1fOVZEWEduQU5CNG4wZUxUTUZHVFRBSk0xSDlta2ZOQXg4RDZSbw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_8d45a5955f64",
+      "type": "assassination",
+      "description": "אחרי הודעת שר הביטחון, צה\"ל מאשר רשמית: חיסלנו בתקיפה מדויקת את שר המודיעין האיראני, אסמאעיל ח'טיב. לפי הודעת צה\"ל ח'טיב מונה לתפקיד בשנת 2021 על ידי ח'אמנהאי, ובמסגרת תפקידו, לקח חלק בהכוונת מעצרים והרג מפגינים במחאות הפנימיות באיראן ובמחאות החיג'אב בשנים 2022-20 - המחדש",
+      "details": "מקור: המחדש",
+      "date": "2026-03-18T11:02:38+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kdTlzRmpGMzFBSEtfc1kxZHpINnllS3Q4VlFPU0ZYaEpyd0YyS01WVFhxVnlFaTVFaTA1VG0tV0NOeUdMWWZJZl9IVE5vZGt5clE?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_8d45a5955f64",
+      "eventId": "crawled_8d45a5955f64",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — אחרי הודעת שר הביטחון, צה\"ל מאשר רשמית: חיסלנו בתקיפה מדויקת את שר המודיעין האיראני, אסמאעיל ח'טיב. לפי הודעת צה\"ל ח'טיב מונה לתפקיד בשנת 2021 על ידי ח'אמנהאי, ובמסגרת תפקידו, לקח חלק בהכוונת מעצרים והרג מפגינים במחאות הפנימיות באיראן ובמחאות החיג'אב בשנים 2022-20 - המחדש",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kdTlzRmpGMzFBSEtfc1kxZHpINnllS3Q4VlFPU0ZYaEpyd0YyS01WVFhxVnlFaTVFaTA1VG0tV0NOeUdMWWZJZl9IVE5vZGt5clE?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_8a908b492898",
+      "type": "assassination",
+      "description": "נתניהו: חיסלנו את עלי לאריג'אני ומפקד הבסיג'; חותרים להפלת המשטר - - شبكة يافا الإخبارية",
+      "details": "מקור: شبكة يافا الإخبارية",
+      "date": "2026-03-17T15:25:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PeVlpSzRteTdCWW9GQkFPbzBmN0hYdU9mUEFiSW82T1dOR3pFNWNSTHhBa2ZiSHJUaVZiUklPUk9VV1FBUlR3QXV1cDdOdU0?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_8a908b492898",
+      "eventId": "crawled_8a908b492898",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — נתניהו: חיסלנו את עלי לאריג'אני ומפקד הבסיג'; חותרים להפלת המשטר - - شبكة يافا الإخبارية",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PeVlpSzRteTdCWW9GQkFPbzBmN0hYdU9mUEFiSW82T1dOR3pFNWNSTHhBa2ZiSHJUaVZiUklPUk9VV1FBUlR3QXV1cDdOdU0?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_065fbe21bad2",
+      "type": "assassination",
+      "description": "הרמטכ\"ל: חיסלנו בכירים פלסטינים בדירת מסתור בטהרן - הידברות",
+      "details": "מקור: הידברות",
+      "date": "2026-03-17T08:26:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySTh5NHllOHg0WjFLMVN4Zy14WDd1TmtNenM4X2dYY0ZHaGFvZkU5aG1waFVBdlV5MnZmd28xMWRVZzE4eXl0WE1YTUtqUy10QjRV?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_065fbe21bad2",
+      "eventId": "crawled_065fbe21bad2",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — הרמטכ\"ל: חיסלנו בכירים פלסטינים בדירת מסתור בטהרן - הידברות",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySTh5NHllOHg0WjFLMVN4Zy14WDd1TmtNenM4X2dYY0ZHaGFvZkU5aG1waFVBdlV5MnZmd28xMWRVZzE4eXl0WE1YTUtqUy10QjRV?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_a2d22b05814f",
+      "type": "assassination",
+      "description": "שברי יירוט פגעו באילת ובנס ציונה; טראמפ: חיסלנו את \"היהלום האיראני\" - בחדרי חרדים",
+      "details": "מקור: בחדרי חרדים",
+      "date": "2026-03-14T16:59:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKWjVHenFtbkM0cGJyQ3hyYmVNTWdTd0RvVEFhZU9DZEppYlR5MHF4ZEEwUllqNkVmbVZPV3lnZHZRclNhWHAwLXJMcw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_a2d22b05814f",
+      "eventId": "crawled_a2d22b05814f",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — שברי יירוט פגעו באילת ובנס ציונה; טראמפ: חיסלנו את \"היהלום האיראני\" - בחדרי חרדים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKWjVHenFtbkM0cGJyQ3hyYmVNTWdTd0RvVEFhZU9DZEppYlR5MHF4ZEEwUllqNkVmbVZPV3lnZHZRclNhWHAwLXJMcw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_095b0396e703",
+      "type": "assassination",
+      "description": "01.03, 11:40: צפו בעדכון דובר צה\"ל - idf.il",
+      "details": "מקור: idf.il",
+      "date": "2026-03-01T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingRBVV95cUxOVnUwVldmTDZrQ3gwQlVRQ1djSUFoZVQ1U05iTnZPQWpoZEN6LWZqNWhPSFo0dWxBbS1SbkpVMHB6U1FBakhoQ2FlZmV6Q3JZQ2tqQmQ1SFFoUTFTYXZKb1AzdV9sTG1fWUE0UTVpdHBHS2hmemt3WGpvQ3dKVUxGdlp5NE9fRm4xU2VGbVNlTjRwVE05czJieEp1MEJtVm83azVXeG1oVzRFZHdUMkRsUzg0elpwelZ4d1dlZmsyQnh2ZVZ3RVY4VlBYU3pLWGhrTkRhbXV1akMzRms3cTBxTEdySkc5ZWtSY1RTMDFzTEhkQV9OcDlWb0lSajQ2U2o3LWthbUxjUzRQeHVSUlJEc3laZXNjREtnYnFaVzVwVThBYi1Ua2VjVVk3cVI4RjNKOWxNZFlnS3dkbFZOWmN5M3FtZlFMQ0ZiNnJ1dC1ERTN0Z1lGRzFPYko2MU1UdDFLUjFZWGc2ZUxlc0tmYVJxLUl5YURybnFmVU5MbEdFNGtoaVhwSzFOMzNiRndRT3l0bFpleEswRnhfX1BrZ3NPVTNGcGI0N0NzMjh1dmprWGxNaEZ5YjM4VlhqSTBiZ24tZmM2bVhuS1prUzl4Zm1QTkN6blZPY0VoU1NrOTRuRU90NjNNYWw3Zk9xNjNPRHp3YnlPZnR5QXEtb0RQS0s5SlZTa0o2SzNmM3J5NjdTT0xkZXBDandDZkxCc25wdw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_095b0396e703",
+      "eventId": "crawled_095b0396e703",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — 01.03, 11:40: צפו בעדכון דובר צה\"ל - idf.il",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingRBVV95cUxOVnUwVldmTDZrQ3gwQlVRQ1djSUFoZVQ1U05iTnZPQWpoZEN6LWZqNWhPSFo0dWxBbS1SbkpVMHB6U1FBakhoQ2FlZmV6Q3JZQ2tqQmQ1SFFoUTFTYXZKb1AzdV9sTG1fWUE0UTVpdHBHS2hmemt3WGpvQ3dKVUxGdlp5NE9fRm4xU2VGbVNlTjRwVE05czJieEp1MEJtVm83azVXeG1oVzRFZHdUMkRsUzg0elpwelZ4d1dlZmsyQnh2ZVZ3RVY4VlBYU3pLWGhrTkRhbXV1akMzRms3cTBxTEdySkc5ZWtSY1RTMDFzTEhkQV9OcDlWb0lSajQ2U2o3LWthbUxjUzRQeHVSUlJEc3laZXNjREtnYnFaVzVwVThBYi1Ua2VjVVk3cVI4RjNKOWxNZFlnS3dkbFZOWmN5M3FtZlFMQ0ZiNnJ1dC1ERTN0Z1lGRzFPYko2MU1UdDFLUjFZWGc2ZUxlc0tmYVJxLUl5YURybnFmVU5MbEdFNGtoaVhwSzFOMzNiRndRT3l0bFpleEswRnhfX1BrZ3NPVTNGcGI0N0NzMjh1dmprWGxNaEZ5YjM4VlhqSTBiZ24tZmM2bVhuS1prUzl4Zm1QTkN6blZPY0VoU1NrOTRuRU90NjNNYWw3Zk9xNjNPRHp3YnlPZnR5QXEtb0RQS0s5SlZTa0o2SzNmM3J5NjdTT0xkZXBDandDZkxCc25wdw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_295e3fb397af",
+      "type": "assassination",
+      "description": "דו\"צ על הבכירים: \"חיסלנו אותם כשהם חיים בתחושת נרדפות\" - סרוגים",
+      "details": "מקור: סרוגים",
+      "date": "2026-03-17T18:16:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTMEZnQXBQREpzQWxtMjlhMEptMXVRaGhBWFJNdmN6dUZsY09MYmltZ2Z6ZEZXX2lOd19CRXBHd3ZzRlBWekJnR2NGN2FrUQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_295e3fb397af",
+      "eventId": "crawled_295e3fb397af",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — דו\"צ על הבכירים: \"חיסלנו אותם כשהם חיים בתחושת נרדפות\" - סרוגים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTMEZnQXBQREpzQWxtMjlhMEptMXVRaGhBWFJNdmN6dUZsY09MYmltZ2Z6ZEZXX2lOd19CRXBHd3ZzRlBWekJnR2NGN2FrUQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_29661d2dcb52",
+      "type": "assassination",
+      "description": "טראמפ: \"חיסלנו את חילות האוויר והים של איראן\" - כאן 11",
+      "details": "מקור: כאן 11",
+      "date": "2026-03-07T07:56:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5LVdMOTJxcXZQQ3hiX1dwNG9GeFhHQ0FhalhjbHFJMGlVT0hnaXhTNVJEYTlXWEh1dDhEeU5adXNRZnNXUlFGN19VdHlZN3RnYkE4UHZPSEN5SWc2VGtwcTBTQ1llUQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_29661d2dcb52",
+      "eventId": "crawled_29661d2dcb52",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — טראמפ: \"חיסלנו את חילות האוויר והים של איראן\" - כאן 11",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5LVdMOTJxcXZQQ3hiX1dwNG9GeFhHQ0FhalhjbHFJMGlVT0hnaXhTNVJEYTlXWEh1dDhEeU5adXNRZnNXUlFGN19VdHlZN3RnYkE4UHZPSEN5SWc2VGtwcTBTQ1llUQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_9201a22fba7b",
+      "type": "assassination",
+      "description": "הרמטכ\"ל: \"עד כה חיסלנו אלפים רבים מחיילי המשטר ומפקדיו, אנחנו נמשיך להעמיק את הפגיעה במשטר וביכולותיו הצבאיות\" - אתר חיל-האוויר",
+      "details": "מקור: אתר חיל-האוויר",
+      "date": "2026-03-11T12:24:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OaW9HckxDbzU5d0p6YW5WR0toVHdkak9FU1VTVUxObVFVVzQ4aHZ4RXBialRpUHBuTkhNQXVHWUgzZkI3eXRqcEt6b1NCVHNrYkxVS0hkb20?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_9201a22fba7b",
+      "eventId": "crawled_9201a22fba7b",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — הרמטכ\"ל: \"עד כה חיסלנו אלפים רבים מחיילי המשטר ומפקדיו, אנחנו נמשיך להעמיק את הפגיעה במשטר וביכולותיו הצבאיות\" - אתר חיל-האוויר",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OaW9HckxDbzU5d0p6YW5WR0toVHdkak9FU1VTVUxObVFVVzQ4aHZ4RXBialRpUHBuTkhNQXVHWUgzZkI3eXRqcEt6b1NCVHNrYkxVS0hkb20?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_a5fcb3b76004",
+      "type": "assassination",
+      "description": "כ\"ץ: \"חיסלנו את שר המודיעין באיראן, בקרוב צפויות הפתעות\" - היום",
+      "details": "מקור: היום",
+      "date": "2026-03-18T10:11:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HRk82T0NsTllSb2RTUnhuV0lGZkxqRjdYMnJlOUhGVUJud0R6TWdFS2hIYmJuLXJPbXhfT1Ayck1uczNuZEQ1UDV3c0NvaGZSUUo0NUVya2dGNENnblRYaFFjY01ZYzYwNVRN0gFzQVVfeXFMTll2bWFEb0x5QVUtZmJZZk14MURRaXR4Z2Y0VjNQdVhhNm9pNHpFWW00VDhKc0hfQzNVb2NmaXVvM3E5ZThRVXNlUXZRdkJiX01zaE9TTm1mY0NLSnhtMXBTaVhud0F0LXRjWGlZVzJTc2Uyaw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_a5fcb3b76004",
+      "eventId": "crawled_a5fcb3b76004",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — כ\"ץ: \"חיסלנו את שר המודיעין באיראן, בקרוב צפויות הפתעות\" - היום",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HRk82T0NsTllSb2RTUnhuV0lGZkxqRjdYMnJlOUhGVUJud0R6TWdFS2hIYmJuLXJPbXhfT1Ayck1uczNuZEQ1UDV3c0NvaGZSUUo0NUVya2dGNENnblRYaFFjY01ZYzYwNVRN0gFzQVVfeXFMTll2bWFEb0x5QVUtZmJZZk14MURRaXR4Z2Y0VjNQdVhhNm9pNHpFWW00VDhKc0hfQzNVb2NmaXVvM3E5ZThRVXNlUXZRdkJiX01zaE9TTm1mY0NLSnhtMXBTaVhud0F0LXRjWGlZVzJTc2Uyaw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_2e452d992edd",
+      "type": "assassination",
+      "description": "נתניהו: חיסלנו את עלי לריגאני ונמשיך להכות - סוכנות חדשות צדא - وكالة صدى نيوز",
+      "details": "מקור: وكالة صدى نيوز",
+      "date": "2026-03-17T13:33:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtVURxbExFM3Q5NHdHZmkyd1d1d1hWdmgxWFlyZmlCZDRKLThKcnJNS2hoM0Y1WEJrMTVTNG93TkFSei04Y05lZW5zVHZJTW5SenlDMlZB?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_2e452d992edd",
+      "eventId": "crawled_2e452d992edd",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — נתניהו: חיסלנו את עלי לריגאני ונמשיך להכות - סוכנות חדשות צדא - وكالة صدى نيوز",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtVURxbExFM3Q5NHdHZmkyd1d1d1hWdmgxWFlyZmlCZDRKLThKcnJNS2hoM0Y1WEJrMTVTNG93TkFSei04Y05lZW5zVHZJTW5SenlDMlZB?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_f8388ef39ea0",
+      "type": "assassination",
+      "description": "חדשות 04 - המצוד בטהראן נמשך | הרמטכ\"ל חשף: חיסלנו בכירים מעזה ויו\"ש בדירת מסתור באיראן - חדשות 04",
+      "details": "מקור: חדשות 04",
+      "date": "2026-03-17T12:21:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LRmZKZEVDQlZTMHZGVldENUkzd2gtMy1heU05MW9JNkxPSW5VTUN1S0tRazBSaURLY05tOU5rNHZRRXQzSUxJOGdR?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_f8388ef39ea0",
+      "eventId": "crawled_f8388ef39ea0",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — חדשות 04 - המצוד בטהראן נמשך | הרמטכ\"ל חשף: חיסלנו בכירים מעזה ויו\"ש בדירת מסתור באיראן - חדשות 04",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LRmZKZEVDQlZTMHZGVldENUkzd2gtMy1heU05MW9JNkxPSW5VTUN1S0tRazBSaURLY05tOU5rNHZRRXQzSUxJOGdR?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_49232d55e133",
+      "type": "assassination",
+      "description": "עריפת ראשים בלב טהרן: 300 מפקדי בסיג' חוסלו בלילה אחד - מעריב",
+      "details": "מקור: מעריב",
+      "date": "2026-03-17T11:46:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14YlhqRFFicDRCWkZUS1I4aHZRdlY4VzhQTmxmR1ZxWktuNXY2dExjVWFxQXFXeFdhSXdaVk81azBHNTFjX01lX2xENUhwODljakc5dmh1cUw5MFFNd1NmSw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_49232d55e133",
+      "eventId": "crawled_49232d55e133",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — עריפת ראשים בלב טהרן: 300 מפקדי בסיג' חוסלו בלילה אחד - מעריב",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14YlhqRFFicDRCWkZUS1I4aHZRdlY4VzhQTmxmR1ZxWktuNXY2dExjVWFxQXFXeFdhSXdaVk81azBHNTFjX01lX2xENUhwODljakc5dmh1cUw5MFFNd1NmSw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_1014dd7b3f34",
+      "type": "assassination",
+      "description": "תיעוד דרמטי: כך חוסלו חיילי הבסיג' האיראני בלב טהרן - סרוגים",
+      "details": "מקור: סרוגים",
+      "date": "2026-03-17T14:32:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44V1VscmdSZ1NYNUFtT19TRjhLZGZBcXVxbzhMRF9OeGhETEhHc3VVVHk1SXljMkJWR2lySWo3SGFtOFpabUJ1OW5GSGVlZw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_1014dd7b3f34",
+      "eventId": "crawled_1014dd7b3f34",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — תיעוד דרמטי: כך חוסלו חיילי הבסיג' האיראני בלב טהרן - סרוגים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44V1VscmdSZ1NYNUFtT19TRjhLZGZBcXVxbzhMRF9OeGhETEhHc3VVVHk1SXljMkJWR2lySWo3SGFtOFpabUJ1OW5GSGVlZw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_7acb9101fd5f",
+      "type": "assassination",
+      "description": "שלושה ניסיונות חיסול בלב ביירות – שישה חוסלו; מאות אלפים נמלטים מהעיר צור - JDN",
+      "details": "מקור: JDN",
+      "date": "2026-03-18T07:56:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uWGhlak14ajFvemw4Sm5qNkdTbk1KVHRCM1RQTFNCQnVRWWNFa2R1TVFJSm5nQTJwQkQwY2FobWpwZkFka092aGZ6Yw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_7acb9101fd5f",
+      "eventId": "crawled_7acb9101fd5f",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — שלושה ניסיונות חיסול בלב ביירות – שישה חוסלו; מאות אלפים נמלטים מהעיר צור - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uWGhlak14ajFvemw4Sm5qNkdTbk1KVHRCM1RQTFNCQnVRWWNFa2R1TVFJSm5nQTJwQkQwY2FobWpwZkFka092aGZ6Yw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_4f4fff81b888",
+      "type": "assassination",
+      "description": "תיעוד דרמטי: מחבלי חיזבאללה חוסלו כשפרקו טיל RPG מרכב - סרוגים",
+      "details": "מקור: סרוגים",
+      "date": "2026-03-18T09:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EcXF0NjBxbGRKY0NndmxHcDc1MS1JcXFYcm9Vam95QjF6RE1JSE1RMnFNRXhQaG8tcVdWay1WWVM0OEh3NFZLejZXQUJJQQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_4f4fff81b888",
+      "eventId": "crawled_4f4fff81b888",
+      "source": "hezbollah",
+      "description": "[OSINT] איום נקמה — תיעוד דרמטי: מחבלי חיזבאללה חוסלו כשפרקו טיל RPG מרכב - סרוגים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EcXF0NjBxbGRKY0NndmxHcDc1MS1JcXFYcm9Vam95QjF6RE1JSE1RMnFNRXhQaG8tcVdWay1WWVM0OEh3NFZLejZXQUJJQQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_60cc224f9f20",
+      "type": "assassination",
+      "description": "מסתמן: שר המודיעין האיראני והמפקד החדש של \"האימאם חוסיין\" בביירות - חוסלו - כיכר השבת",
+      "details": "מקור: כיכר השבת",
+      "date": "2026-03-18T08:51:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhWTNsOFgwWTdhbEFtbDk0aXE5V0psZXBKOEdibHhBWjh4ODRhbE8tYzhrcHpFT1pYMDd0clBPUzYyUHZ0STFWUF9VQnQ4Y0daY0lwcDVTQQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_60cc224f9f20",
+      "eventId": "crawled_60cc224f9f20",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — מסתמן: שר המודיעין האיראני והמפקד החדש של \"האימאם חוסיין\" בביירות - חוסלו - כיכר השבת",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhWTNsOFgwWTdhbEFtbDk0aXE5V0psZXBKOEdibHhBWjh4ODRhbE8tYzhrcHpFT1pYMDd0clBPUzYyUHZ0STFWUF9VQnQ4Y0daY0lwcDVTQQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_6ae6800f6fdd",
+      "type": "assassination",
+      "description": "סוכל פיגוע דריסה בשומרון: ארבעה מחבלים חוסלו - C14",
+      "details": "מקור: C14",
+      "date": "2026-03-15T06:43:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jUm5Fb21qSVV3alJ3WFpXU1ZUQnpPdGd4NFg5M0hTelk3bFhFc1MyOU9pTUFNd081aW5EV1NIM2NseVdKcUJxUjB4c05YUQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_6ae6800f6fdd",
+      "eventId": "crawled_6ae6800f6fdd",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — סוכל פיגוע דריסה בשומרון: ארבעה מחבלים חוסלו - C14",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jUm5Fb21qSVV3alJ3WFpXU1ZUQnpPdGd4NFg5M0hTelk3bFhFc1MyOU9pTUFNd081aW5EV1NIM2NseVdKcUJxUjB4c05YUQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_fe12686ac626",
+      "type": "assassination",
+      "description": "חוסלו מחבלים שהשתתפו בטבח ה-7 באוקטובר - בחדרי חרדים",
+      "details": "מקור: בחדרי חרדים",
+      "date": "2026-03-16T17:10:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52SWlKSmRfRlVyWU85SU5IR2NhMlNNb21JVU5Jbm9JcTk0dDRfNHBDSlhxWHlhbm9rNENfRElYZnpVdTJhREQwakxtVQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_fe12686ac626",
+      "eventId": "crawled_fe12686ac626",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — חוסלו מחבלים שהשתתפו בטבח ה-7 באוקטובר - בחדרי חרדים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52SWlKSmRfRlVyWU85SU5IR2NhMlNNb21JVU5Jbm9JcTk0dDRfNHBDSlhxWHlhbm9rNENfRElYZnpVdTJhREQwakxtVQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_b891ffa3f0a7",
+      "type": "assassination",
+      "description": "בנו של עלי לאריג'אני ובכיר נוסף חוסלו בתקיפת כוחותינו - C14",
+      "details": "מקור: C14",
+      "date": "2026-03-17T17:56:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45TUwzYW9WLTNlOVVLTFhNRE5rUXlvZzFHMEs0ZXZCelU0eGZsOU9SV1RxVENBX3NzX1Z4OFNtRjEtOGwxSFQyX1pCeEpVZw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_b891ffa3f0a7",
+      "eventId": "crawled_b891ffa3f0a7",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — בנו של עלי לאריג'אני ובכיר נוסף חוסלו בתקיפת כוחותינו - C14",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45TUwzYW9WLTNlOVVLTFhNRE5rUXlvZzFHMEs0ZXZCelU0eGZsOU9SV1RxVENBX3NzX1Z4OFNtRjEtOGwxSFQyX1pCeEpVZw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_e87b311893bf",
+      "type": "assassination",
+      "description": "דיווח: כ-300 מפקדי בסיג' חוסלו הלילה; מאות כלי רכב הושמדו - JDN",
+      "details": "מקור: JDN",
+      "date": "2026-03-17T13:03:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xdGROYXUxSmNWbDJCNlRrYXZhaWlwWmtkSkctOFE5X1RJZldCYUV1em1TUUZ6a3VpdjVEMWF0ODlhZjFOdE44ZHhxaw?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_e87b311893bf",
+      "eventId": "crawled_e87b311893bf",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — דיווח: כ-300 מפקדי בסיג' חוסלו הלילה; מאות כלי רכב הושמדו - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xdGROYXUxSmNWbDJCNlRrYXZhaWlwWmtkSkctOFE5X1RJZldCYUV1em1TUUZ6a3VpdjVEMWF0ODlhZjFOdE44ZHhxaw?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_1dc16f184f6c",
+      "type": "assassination",
+      "description": "צפו: מחבלי נוח'בה מהטבח חוסלו בתקיפה מדויקת - אמס",
+      "details": "מקור: אמס",
+      "date": "2026-03-16T18:38:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnY09JN0tqdjVkWkJHY3RxUVNlYnlDZlF2ZWtWQ1pIYmVFbldDaWZkYjhuUWxnTkN6SGwyMTNVMGNUeXRxbzRNYzBMalViQQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_1dc16f184f6c",
+      "eventId": "crawled_1dc16f184f6c",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — צפו: מחבלי נוח'בה מהטבח חוסלו בתקיפה מדויקת - אמס",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnY09JN0tqdjVkWkJHY3RxUVNlYnlDZlF2ZWtWQ1pIYmVFbldDaWZkYjhuUWxnTkN6SGwyMTNVMGNUeXRxbzRNYzBMalViQQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_826b794e7796",
+      "type": "assassination",
+      "description": "ניסיון דריסה: ארבעה מחבלים חוסלו אחרי שניסו לרצוח חיילים - JDN",
+      "details": "מקור: JDN",
+      "date": "2026-03-15T07:09:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSWtQZ0RScDFoekFCeUVTeUlreXQ5U2stRkVvSjYtekd0bFJqdE56cEN4NjIzSU1LeEV1aksyenJDMUV2OXpxVE5FWQ?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_826b794e7796",
+      "eventId": "crawled_826b794e7796",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — ניסיון דריסה: ארבעה מחבלים חוסלו אחרי שניסו לרצוח חיילים - JDN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSWtQZ0RScDFoekFCeUVTeUlreXQ5U2stRkVvSjYtekd0bFJqdE56cEN4NjIzSU1LeEV1aksyenJDMUV2OXpxVE5FWQ?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_6d33115cee7b",
+      "type": "assassination",
+      "description": "דיווח באיראן: בנו של עלי לריג'אני ובכיר נוסף חוסלו יחד עמו - מעריב",
+      "details": "מקור: מעריב",
+      "date": "2026-03-17T17:42:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oVkhiUGVCbEdoN1h1U2tIVWd6OU9VcWwyT0ZmdU1acXRNcVhEaG9qYnMtUGVaWWRzRGhKeGZBdmE5a3lVMzlnaXRjcktoOW9xTWphZDFjZU4xZVhoZTRwblZQang?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_6d33115cee7b",
+      "eventId": "crawled_6d33115cee7b",
+      "source": "iran",
+      "description": "[OSINT] איום נקמה — דיווח באיראן: בנו של עלי לריג'אני ובכיר נוסף חוסלו יחד עמו - מעריב",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oVkhiUGVCbEdoN1h1U2tIVWd6OU9VcWwyT0ZmdU1acXRNcVhEaG9qYnMtUGVaWWRzRGhKeGZBdmE5a3lVMzlnaXRjcktoOW9xTWphZDFjZU4xZVhoZTRwblZQang?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_bf6bf9bddc32",
+      "type": "assassination",
+      "description": "מחבלים שיידו אבנים לעבר רכבים ישראלים ביהודה ושומרון חוסלו - מעריב",
+      "details": "מקור: מעריב",
+      "date": "2026-03-16T21:49:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lbEhaazF4SzlpUnU5SlRfdGRkWkZBMWV5T211R2tXcE11SG4tRmZOWG5HTjNGLU5IQjVEbEhoaDdtMC1JN0F4UlYxN2JfSDNYOE1OWTNsc1gyYVc1MWNkLVUxRE4?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_bf6bf9bddc32",
+      "eventId": "crawled_bf6bf9bddc32",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — מחבלים שיידו אבנים לעבר רכבים ישראלים ביהודה ושומרון חוסלו - מעריב",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lbEhaazF4SzlpUnU5SlRfdGRkWkZBMWV5T211R2tXcE11SG4tRmZOWG5HTjNGLU5IQjVEbEhoaDdtMC1JN0F4UlYxN2JfSDNYOE1OWTNsc1gyYVc1MWNkLVUxRE4?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  },
+  {
+    "event": {
+      "id": "crawled_5aaf7f445f4e",
+      "type": "assassination",
+      "description": "הנתונים נחשפים: כמה מחבלי רדואן חוסלו - וכמה נותרו? - בחדרי חרדים",
+      "details": "מקור: בחדרי חרדים",
+      "date": "2026-03-16T20:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3akJMOFJXOGlfMmdvUWFwdnhtRm1oV1Qya1Nna05wTlExSW1UdFFxTm9yb0xtM1QxTGxfS1Q3c01Pc2hyWGJfZk5XMA?oc=5"
+    },
+    "signal": {
+      "id": "sig_crawled_5aaf7f445f4e",
+      "eventId": "crawled_5aaf7f445f4e",
+      "source": "other",
+      "description": "[OSINT] איום נקמה — הנתונים נחשפים: כמה מחבלי רדואן חוסלו - וכמה נותרו? - בחדרי חרדים",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3akJMOFJXOGlfMmdvUWFwdnhtRm1oV1Qya1Nna05wTlExSW1UdFFxTm9yb0xtM1QxTGxfS1Q3c01Pc2hyWGJfZk5XMA?oc=5"
+    },
+    "status": "pending",
+    "crawled": true
+  }
+]
