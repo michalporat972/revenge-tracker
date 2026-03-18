@@ -24,6 +24,7 @@ export interface ConflictCycle {
   event: ConflictEvent;
   signal: RevengeSignal;
   status: RevengeStatus;
+  crawled?: boolean; // true = auto-fetched by OSINT crawler
 }
 
 export const SOURCE_LABELS: Record<Source, string> = {

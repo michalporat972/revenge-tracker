@@ -2,7 +2,7 @@ import { ConflictCycle, STATUS_LABELS, SOURCE_LABELS, EVENT_TYPE_LABELS } from "
 import { Badge } from "@/components/ui/badge";
 import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
-import { ArrowLeft, ExternalLink, Skull, Building2, Clock } from "lucide-react";
+import { ArrowLeft, ExternalLink, Skull, Building2, Clock, Radio } from "lucide-react";
 
 function formatDate(iso: string) {
   return new Intl.DateTimeFormat("he-IL", {
@@ -36,14 +36,22 @@ export function ConflictCard({ cycle }: { cycle: ConflictCycle }) {
     <Card className="overflow-hidden border-border bg-card hover:bg-card/80 transition-colors">
       {/* Status bar */}
       <div className="flex items-center justify-between px-4 py-2 border-b border-border">
-        <Badge
-          className={cn(
-            "rounded-sm text-xs font-display font-semibold border",
-            statusStyles[status]
+        <div className="flex items-center gap-2">
+          <Badge
+            className={cn(
+              "rounded-sm text-xs font-display font-semibold border",
+              statusStyles[status]
+            )}
+          >
+            {STATUS_LABELS[status]}
+          </Badge>
+          {cycle.crawled && (
+            <Badge className="rounded-sm text-xs border bg-sky-500/10 text-sky-400 border-sky-500/25 flex items-center gap-1">
+              <Radio className="h-2.5 w-2.5" />
+              OSINT
+            </Badge>
           )}
-        >
-          {STATUS_LABELS[status]}
-        </Badge>
+        </div>
         <span className="text-xs text-muted-foreground font-body">
           {SOURCE_LABELS[signal.source]}
         </span>
