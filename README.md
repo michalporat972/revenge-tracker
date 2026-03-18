@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Revenge4who
 
-TODO: Document your project here
+Coming soon (revenge and readme)
